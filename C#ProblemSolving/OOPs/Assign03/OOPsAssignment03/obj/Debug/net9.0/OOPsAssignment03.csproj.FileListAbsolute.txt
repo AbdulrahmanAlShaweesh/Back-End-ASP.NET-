@@ -1,0 +1,15 @@
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\bin\Debug\net9.0\OOPsAssignment03.exe
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\bin\Debug\net9.0\OOPsAssignment03.deps.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\bin\Debug\net9.0\OOPsAssignment03.runtimeconfig.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\bin\Debug\net9.0\OOPsAssignment03.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\bin\Debug\net9.0\OOPsAssignment03.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\OOPsAssignment03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\OOPsAssignment03.AssemblyInfoInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\OOPsAssignment03.AssemblyInfo.cs
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\OOPsAssignment03.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\OOPsAssignment03.sourcelink.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\OOPsAssignment03.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\refint\OOPsAssignment03.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\OOPsAssignment03.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\OOPsAssignment03.genruntimeconfig.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\OOPsAssignment03\OOPsAssignment03\obj\Debug\net9.0\ref\OOPsAssignment03.dll

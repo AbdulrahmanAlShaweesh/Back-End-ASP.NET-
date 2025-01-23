@@ -1,0 +1,14 @@
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\bin\Debug\net8.0\Lect3ProblemSolving.exe
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\Lect3ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\Lect3ProblemSolving.AssemblyInfoInputs.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\Lect3ProblemSolving.AssemblyInfo.cs
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\Lect3ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\Lect3ProblemSolving.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\refint\Lect3ProblemSolving.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\Lect3ProblemSolving.pdb
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\bin\Debug\net8.0\Lect3ProblemSolving.deps.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\bin\Debug\net8.0\Lect3ProblemSolving.runtimeconfig.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\bin\Debug\net8.0\Lect3ProblemSolving.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\bin\Debug\net8.0\Lect3ProblemSolving.pdb
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\Lect3ProblemSolving.genruntimeconfig.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3ProblemSolving\obj\Debug\net8.0\ref\Lect3ProblemSolving.dll

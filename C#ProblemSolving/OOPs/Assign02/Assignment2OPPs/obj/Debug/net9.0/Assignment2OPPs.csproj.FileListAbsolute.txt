@@ -1,0 +1,15 @@
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\bin\Debug\net9.0\Assignment2OPPs.exe
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\bin\Debug\net9.0\Assignment2OPPs.deps.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\bin\Debug\net9.0\Assignment2OPPs.runtimeconfig.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\bin\Debug\net9.0\Assignment2OPPs.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\bin\Debug\net9.0\Assignment2OPPs.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\Assignment2OPPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\Assignment2OPPs.AssemblyInfoInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\Assignment2OPPs.AssemblyInfo.cs
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\Assignment2OPPs.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\Assignment2OPPs.sourcelink.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\Assignment2OPPs.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\refint\Assignment2OPPs.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\Assignment2OPPs.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\Assignment2OPPs.genruntimeconfig.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\CSharp\ProblemSoving\CSharp-Problem-Solving\Assignment2OOPs\Assignment2OPPs\Assignment2OPPs\obj\Debug\net9.0\ref\Assignment2OPPs.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72CE7DA9-59BE-489E-A732-D53FE57A515D}|Assignement1OOPs\\Assignement1OOPs.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\csharp\\problemsoving\\csharp-problem-solving\\assignement1oops\\assignement1oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CE7DA9-59BE-489E-A732-D53FE57A515D}|Assignement1OOPs\\Assignement1OOPs.csproj|solutionrelative:assignement1oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CE7DA9-59BE-489E-A732-D53FE57A515D}|Assignement1OOPs\\Assignement1OOPs.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\csharp\\problemsoving\\csharp-problem-solving\\assignement1oops\\assignement1oops\\enums\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CE7DA9-59BE-489E-A732-D53FE57A515D}|Assignement1OOPs\\Assignement1OOPs.csproj|solutionrelative:assignement1oops\\enums\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CE7DA9-59BE-489E-A732-D53FE57A515D}|Assignement1OOPs\\Assignement1OOPs.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\csharp\\problemsoving\\csharp-problem-solving\\assignement1oops\\assignement1oops\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CE7DA9-59BE-489E-A732-D53FE57A515D}|Assignement1OOPs\\Assignement1OOPs.csproj|solutionrelative:assignement1oops\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\Enums\\Permissions.cs",
+              "RelativeDocumentMoniker": "Assignement1OOPs\\Enums\\Permissions.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\Enums\\Permissions.cs",
+              "RelativeToolTip": "Assignement1OOPs\\Enums\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:11:42.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\User.cs",
+              "RelativeDocumentMoniker": "Assignement1OOPs\\User.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\User.cs",
+              "RelativeToolTip": "Assignement1OOPs\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:33:47.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\Program.cs",
+              "RelativeDocumentMoniker": "Assignement1OOPs\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\Program.cs*",
+              "RelativeToolTip": "Assignement1OOPs\\Program.cs*",
+              "ViewState": "AgIAACUAAACAmZmZmZktwFMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:52:17.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

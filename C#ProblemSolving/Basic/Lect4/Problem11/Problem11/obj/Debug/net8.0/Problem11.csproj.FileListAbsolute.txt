@@ -1,0 +1,15 @@
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\Problem11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\Problem11.AssemblyInfoInputs.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\Problem11.AssemblyInfo.cs
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\Problem11.csproj.CoreCompileInputs.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\Problem11.sourcelink.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\bin\Debug\net8.0\Problem11.exe
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\bin\Debug\net8.0\Problem11.deps.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\bin\Debug\net8.0\Problem11.runtimeconfig.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\bin\Debug\net8.0\Problem11.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\bin\Debug\net8.0\Problem11.pdb
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\Problem11.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\refint\Problem11.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\Problem11.pdb
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\Problem11.genruntimeconfig.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem11\Problem11\obj\Debug\net8.0\ref\Problem11.dll

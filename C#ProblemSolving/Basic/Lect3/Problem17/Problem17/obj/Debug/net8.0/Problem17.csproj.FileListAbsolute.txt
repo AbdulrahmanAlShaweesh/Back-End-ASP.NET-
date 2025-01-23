@@ -1,0 +1,14 @@
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\Problem17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\Problem17.AssemblyInfoInputs.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\Problem17.AssemblyInfo.cs
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\Problem17.csproj.CoreCompileInputs.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\bin\Debug\net8.0\Problem17.exe
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\bin\Debug\net8.0\Problem17.deps.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\bin\Debug\net8.0\Problem17.runtimeconfig.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\bin\Debug\net8.0\Problem17.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\bin\Debug\net8.0\Problem17.pdb
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\Problem17.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\refint\Problem17.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\Problem17.pdb
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\Problem17.genruntimeconfig.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect3\Problem17\Problem17\obj\Debug\net8.0\ref\Problem17.dll

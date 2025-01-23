@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abood\\OneDrive\\Desktop\\BackEnd\\CSharp\\ProblemSolvingAsssignments\\ProblemSolving\\Lect3\\Problem10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F92FD8-63CE-497C-876D-B45CA1A85AC4}|Problem10\\Problem10.csproj|c:\\users\\abood\\onedrive\\desktop\\backend\\csharp\\problemsolvingasssignments\\problemsolving\\lect3\\problem10\\problem10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F92FD8-63CE-497C-876D-B45CA1A85AC4}|Problem10\\Problem10.csproj|solutionrelative:problem10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\OneDrive\\Desktop\\BackEnd\\CSharp\\ProblemSolvingAsssignments\\ProblemSolving\\Lect3\\Problem10\\Problem10\\Program.cs",
+              "RelativeDocumentMoniker": "Problem10\\Program.cs",
+              "ToolTip": "C:\\Users\\abood\\OneDrive\\Desktop\\BackEnd\\CSharp\\ProblemSolvingAsssignments\\ProblemSolving\\Lect3\\Problem10\\Problem10\\Program.cs",
+              "RelativeToolTip": "Problem10\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:46:32.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

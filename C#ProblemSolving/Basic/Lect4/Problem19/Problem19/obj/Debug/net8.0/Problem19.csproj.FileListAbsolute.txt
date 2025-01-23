@@ -1,0 +1,15 @@
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\bin\Debug\net8.0\Problem19.exe
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\bin\Debug\net8.0\Problem19.deps.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\bin\Debug\net8.0\Problem19.runtimeconfig.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\bin\Debug\net8.0\Problem19.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\bin\Debug\net8.0\Problem19.pdb
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\Problem19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\Problem19.AssemblyInfoInputs.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\Problem19.AssemblyInfo.cs
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\Problem19.csproj.CoreCompileInputs.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\Problem19.sourcelink.json
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\Problem19.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\refint\Problem19.dll
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\Problem19.pdb
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\Problem19.genruntimeconfig.cache
+C:\Users\abood\OneDrive\Desktop\BackEnd\CSharp\ProblemSolvingAsssignments\ProblemSolving\Lect4\Problem19\Problem19\obj\Debug\net8.0\ref\Problem19.dll
