@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#problemsolving\\oops\\assign04\\assign04\\classes\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#problemsolving\\oops\\assign04\\assign04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign04\\Assign04\\Classes\\Duration.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\Duration.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign04\\Assign04\\Classes\\Duration.cs",
+              "RelativeToolTip": "Assign04\\Classes\\Duration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:24:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign04\\Assign04\\Program.cs",
               "RelativeDocumentMoniker": "Assign04\\Program.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign04\\Assign04\\Program.cs*",
-              "RelativeToolTip": "Assign04\\Program.cs*",
-              "ViewState": "AgIAABMAAABAMzMzMzMnwDkAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign04\\Assign04\\Program.cs",
+              "RelativeToolTip": "Assign04\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T22:30:28.201Z",
               "EditorCaption": ""

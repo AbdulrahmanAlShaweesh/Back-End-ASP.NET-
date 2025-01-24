@@ -55,7 +55,18 @@
             Console.WriteLine($"Min Number is {min}\nThe Max number is {max}");
             #endregion
 
+            #region Question 7 Calculate Factorial of a geven number
+            double factorial = CalculateFactorial(10);
+            Console.WriteLine($"The Factorial of 10 is {factorial}");
+            #endregion
 
+            #region Question 8 ChangeChar
+            string Str = "Abdulrahman Ibraheem";
+            char NewChar = 'E';
+
+            ChangeChar(ref Str, 12, NewChar);
+            Console.WriteLine($"The New String is {Str}");
+            #endregion
         }
 
         #region Sumation Of Two Numbers : Questio 3
@@ -124,8 +135,42 @@
         }
         #endregion
 
-        #region Question 7 :
+        #region Question 7 : Calculate Factorial of a number
+        public static double CalculateFactorial(int Number)
+        {
+            if(Number < 0 ) { 
+                
+                Console.WriteLine("The Number can not be a negative"); 
+            }
+
+            double factorial = 1; 
+
+            for (int i = 1; i < Number; i++)
+            {
+                factorial *= i;
+            }
+
+            return factorial;
+        }
 
         #endregion
-    }
-}   
+
+        #region Question 8 Chaning Carachter
+            public static void ChangeChar(ref string Str, int Index, char NewChar)
+            {
+
+                if (Str is not null)
+                {
+                    char[] CharArray = Str.ToCharArray();
+                    CharArray[Index] = NewChar;
+                    Str = new string(CharArray);
+                }
+                else
+                {
+                    Console.WriteLine("String can not be Null");
+                }
+            }
+        #endregion
+        
+        }
+    }   
