@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var range = new Range<int>(12 , 32);
+            Console.WriteLine(range.IsInRange(19));
+
+            //range<boo>.IsInRange()
         }
     }
 }
