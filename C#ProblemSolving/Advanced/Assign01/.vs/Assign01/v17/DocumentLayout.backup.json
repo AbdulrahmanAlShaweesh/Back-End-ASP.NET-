@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{CE5CE3C5-AD9E-4000-9190-FB78DCC1E640}|Assign01\\Assign01.csproj|solutionrelative:assign01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE5CE3C5-AD9E-4000-9190-FB78DCC1E640}|Assign01\\Assign01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#problemsolving\\advanced\\assign01\\assign01\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE5CE3C5-AD9E-4000-9190-FB78DCC1E640}|Assign01\\Assign01.csproj|solutionrelative:assign01\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE5CE3C5-AD9E-4000-9190-FB78DCC1E640}|Assign01\\Assign01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#problemsolving\\advanced\\assign01\\assign01\\uniquestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5CE3C5-AD9E-4000-9190-FB78DCC1E640}|Assign01\\Assign01.csproj|solutionrelative:assign01\\uniquestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FixedSizeList.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\Advanced\\Assign01\\Assign01\\FixedSizeList.cs",
-              "RelativeDocumentMoniker": "Assign01\\FixedSizeList.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\Advanced\\Assign01\\Assign01\\FixedSizeList.cs",
-              "RelativeToolTip": "Assign01\\FixedSizeList.cs",
-              "ViewState": "AgIAACsAAAAAzMzMzMz8vzgAAAASAAAAAAAAAA==",
+              "Title": "UniqueString.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\Advanced\\Assign01\\Assign01\\UniqueString.cs",
+              "RelativeDocumentMoniker": "Assign01\\UniqueString.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\Advanced\\Assign01\\Assign01\\UniqueString.cs",
+              "RelativeToolTip": "Assign01\\UniqueString.cs",
+              "ViewState": "AgIAAA8AAABgmZmZmZktwBIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:16:46.373Z",
+              "WhenOpened": "2025-01-29T16:43:16.922Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Assign01\\Program.cs",
               "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\Advanced\\Assign01\\Assign01\\Program.cs*",
               "RelativeToolTip": "Assign01\\Program.cs*",
-              "ViewState": "AgIAAAgAAAAAMzMzMzPzvzgAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T19:50:58.974Z",
               "EditorCaption": ""

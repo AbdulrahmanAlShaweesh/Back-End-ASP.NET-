@@ -59,7 +59,12 @@ namespace Assign01
             #endregion
 
             #region Question 5 : 
+            UniqueString<char> finder = new UniqueString<char>();
 
+            string testString = "swwiss";
+            int index = finder.FindFirstUniqueIndex(testString);
+
+            Console.WriteLine("First non-repeating character index: " + index);
             #endregion
         }
     }
