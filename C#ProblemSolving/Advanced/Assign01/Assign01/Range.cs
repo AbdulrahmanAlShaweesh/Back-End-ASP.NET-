@@ -30,19 +30,21 @@ namespace Assign01
 
         public T Length()
         {
-            dynamic _min = MinValue;
-            dynamic _max = MaxValue;
 
-            return _max - _min;
-        }
+            if (MaxValue is int x && MinValue is int y)
+                return (T)(object)(x - y);
+            if (MaxValue is double d1 && MinValue is double d2)
+                return (T)(object)(d1 - d2);
+            if (MaxValue is float f1 && MinValue is float f2)
+                return (T)(object)(f1 - f2);
+            if (MaxValue is long l1 && MinValue is long l2)
+                return (T)(object)(l1 - l2);
+            if (MaxValue is decimal m1 && MinValue is decimal m2)
+                return (T)(object)(m1 - m2);
 
-        public static Range<T> operator - (Range<T> left , Range<T> right)
-        {
-            return new Range() { 
-               
-            };
+            throw new InvalidOperationException("Length() only supports numeric types.");
         }
-        
+ 
         #endregion
 
     }
