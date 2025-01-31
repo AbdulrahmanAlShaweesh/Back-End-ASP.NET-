@@ -167,10 +167,10 @@
                 }
                 else
                 {
-                    Console.WriteLine("String can not be Null");
+                    Console.WriteLine("String can'nt be Null");
                 }
             }
-        #endregion
+        #endregions
         
         }
     }   
