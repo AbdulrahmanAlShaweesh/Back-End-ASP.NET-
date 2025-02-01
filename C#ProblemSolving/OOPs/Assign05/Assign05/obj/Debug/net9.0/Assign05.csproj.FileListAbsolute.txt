@@ -1,0 +1,15 @@
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\Assign05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\Assign05.AssemblyInfoInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\Assign05.AssemblyInfo.cs
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\Assign05.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\Assign05.sourcelink.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\bin\Debug\net9.0\Assign05.exe
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\bin\Debug\net9.0\Assign05.deps.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\bin\Debug\net9.0\Assign05.runtimeconfig.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\bin\Debug\net9.0\Assign05.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\bin\Debug\net9.0\Assign05.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\Assign05.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\refint\Assign05.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\Assign05.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\Assign05.genruntimeconfig.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#ProblemSolving\OOPs\Assign05\Assign05\obj\Debug\net9.0\ref\Assign05.dll
