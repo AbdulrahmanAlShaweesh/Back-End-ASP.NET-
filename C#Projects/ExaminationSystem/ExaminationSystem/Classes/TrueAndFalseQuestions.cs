@@ -16,13 +16,14 @@ namespace ExaminationSystem.Classes
 
         #region Constructor
         public TrueAndFalseQuestions(string? header, string? body, decimal marks, bool IsAnswerCorrect) 
-            : base(header, body, marks)
+            : base(header, body, marks , 2)
         {
             this.IsAnswerCorrect = IsAnswerCorrect;
         }
         #endregion
 
-        public override void QuestionInformations()   
+        #region Methods  
+        public override void QuestionInformations()
         {
             string pointsText = Marks > 1 ? "\\Points\\" : "Point";
             Console.WriteLine($"{Header} : {Body} || Carry {Marks} {pointsText}");
@@ -34,5 +35,11 @@ namespace ExaminationSystem.Classes
                 counter++;
             }
         }
+
+        public override bool CkeckUserAnswer(int StudentAnswer)
+        {
+            return StudentAnswer == RightAnswers;
+        } 
+        #endregion
     }
 }

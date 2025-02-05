@@ -8,11 +8,15 @@ namespace ExaminationSystem.Classes
 {
     internal class MCQChooseOneAnswerQuestion : Questions
     {
+        #region Constructor
         public MCQChooseOneAnswerQuestion(string? header, string? body, decimal marks, int NumberOfAnswers) :
-            base(header, body, marks, NumberOfAnswers)
+           base(header, body, marks, NumberOfAnswers)
         {
-        }
+        } 
 
+        #endregion
+
+        #region Methods
         // Adding an answer
         public void AddAnswer(int answerId, string answerText)
         {
@@ -35,6 +39,7 @@ namespace ExaminationSystem.Classes
         public override bool CkeckUserAnswer(int StudentAnswer)
         {
             return StudentAnswer == RightAnswers;
-        }
+        } 
+        #endregion
     }
 }
