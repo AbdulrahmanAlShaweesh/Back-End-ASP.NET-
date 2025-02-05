@@ -8,11 +8,12 @@ namespace ExaminationSystem.Classes
 {
     internal class MCQChooseOneAnswerQuestion : Questions
     {
-        public MCQChooseOneAnswerQuestion(string? header, string? body, decimal marks) : base(header, body, marks)
+        public MCQChooseOneAnswerQuestion(string? header, string? body, decimal marks) : 
+            base(header, body, marks)
         {
+
         }
 
-        public Answers[]? AnswerList { get; set; }
-        public int RightAnswers {  get; set; }
+       
     }
 }

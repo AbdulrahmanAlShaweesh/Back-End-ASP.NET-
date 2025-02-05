@@ -10,9 +10,11 @@ namespace ExaminationSystem.Classes
     {
         // Properities for the exam [Question , Answer , and Marks]
         #region Properities
-        public string? Header { get; set; } 
-        public string? Body { get; set; }
-        public decimal Marks { get; set; }
+        public string? Header { get; set; }        // Title of the Questions
+        public string? Body { get; set; }          // Description of the Questions
+        public decimal Marks { get; set; }         // Question's Marks
+        public Answers[]? AnswerList { get; set; } // all answers (Options for each answer)
+        public int RightAnswers { get; set; }      // the right answer of the question
         #endregion
 
         // Will be called each time we create an object from this class
@@ -22,9 +24,12 @@ namespace ExaminationSystem.Classes
             this.Header = header;
             this.Body = body;
             this.Marks = marks;
-        } 
+            AnswerList = new Answers[3];
+        }
         #endregion
 
-        public virtual void QuestionInformations() { }
+        public  virtual void QuestionInformations() { }      // this function will be override
+                                                             // for each question type
+
     }
 }
