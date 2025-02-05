@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExaminationSystem.Enums
+namespace ExaminationSystem.Classes
 {
-    internal enum TrueOrFalseAnswer
+    internal class Exam
     {
-        False = 0, True = 1
+
     }
 }

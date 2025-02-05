@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\classes\\trueandfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\trueandfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\classes\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TrueAndFalseQuestions.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\TrueAndFalseQuestions.cs",
-              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\TrueAndFalseQuestions.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\TrueAndFalseQuestions.cs",
-              "RelativeToolTip": "ExaminationSystem\\Classes\\TrueAndFalseQuestions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\Questions.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\Questions.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\Questions.cs",
+              "RelativeToolTip": "ExaminationSystem\\Classes\\Questions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T14:39:59.279Z",
+              "WhenOpened": "2025-02-05T21:59:06.929Z",
               "EditorCaption": ""
             }
           ]

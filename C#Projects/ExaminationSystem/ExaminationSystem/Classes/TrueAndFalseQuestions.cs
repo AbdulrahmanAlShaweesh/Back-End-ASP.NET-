@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ExaminationSystem.Enums;
 
 namespace ExaminationSystem.Classes
 {
@@ -17,7 +19,20 @@ namespace ExaminationSystem.Classes
             : base(header, body, marks)
         {
             this.IsAnswerCorrect = IsAnswerCorrect;
-        } 
+        }
         #endregion
+
+        public override void QuestionInformations()   
+        {
+            string pointsText = Marks > 1 ? "\\Points\\" : "Point";
+            Console.WriteLine($"{Header} : {Body} || Carry {Marks} {pointsText}");
+            int counter = 1;
+
+            foreach (TrueOrFalseAnswer value in Enum.GetValues(typeof(TrueOrFalseAnswer)))
+            {
+                Console.WriteLine($"{counter}. {value}");
+                counter++;
+            }
+        }
     }
 }

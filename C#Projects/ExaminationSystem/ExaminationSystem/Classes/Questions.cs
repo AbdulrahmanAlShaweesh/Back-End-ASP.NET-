@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExaminationSystem.Classes
 {
-    internal class Questions
+    internal abstract class Questions
     {
         // Properities for the exam [Question , Answer , and Marks]
         #region Properities
@@ -19,17 +19,17 @@ namespace ExaminationSystem.Classes
 
         // Will be called each time we create an object from this class
         #region Constructors  
-        public Questions(string? header, string? body, decimal marks)
+        public Questions(string? header, string? body, decimal marks, int NumberOfAnswers)
         {
             this.Header = header;
             this.Body = body;
             this.Marks = marks;
-            AnswerList = new Answers[3];
+            this.AnswerList = new Answers[NumberOfAnswers];
         }
         #endregion
 
-        public  virtual void QuestionInformations() { }      // this function will be override
-                                                             // for each question type
-
+        public abstract void QuestionInformations();    // this function will be override
+                                                        // for each question typE
+        public abstract bool CkeckUserAnswer(int StudentAnswer); // check user answer
     }
 }

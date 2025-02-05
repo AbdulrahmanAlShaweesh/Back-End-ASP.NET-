@@ -1,0 +1,15 @@
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.exe
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.deps.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.runtimeconfig.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\bin\Debug\net9.0\ExaminationSystem.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.sourcelink.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\refint\ExaminationSystem.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\C#Projects\ExaminationSystem\ExaminationSystem\obj\Debug\net9.0\ref\ExaminationSystem.dll
