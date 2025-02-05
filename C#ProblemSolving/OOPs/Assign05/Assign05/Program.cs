@@ -1,14 +1,22 @@
-﻿namespace Assign05
+﻿using System.Globalization;
+
+namespace Assign05
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            object obj = new object();
             InterfaceShape();
             Console.WriteLine("***************************************");
             Authentication();
             Console.WriteLine("***************************************");
             SendingNotification();
+
+            long  Number = 10_102_333;
+            var cultinfo = new CultureInfo("ar-SA");
+            Console.WriteLine(Number.ToString("c" , cultinfo));
+
         }
 
         #region Question 01
