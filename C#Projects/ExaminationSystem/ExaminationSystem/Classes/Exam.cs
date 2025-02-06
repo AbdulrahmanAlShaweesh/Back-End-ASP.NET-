@@ -11,7 +11,7 @@ namespace ExaminationSystem.Classes
         #region Properities
         public int TimeOfExam { get; set; }  // time student will take the exam e.g 60 minutes
         public int NumberOfQuestions { get; set; }
-        public Questions[] Questions { get; set; }
+        public Questions[]? Questions { get; set; }
 
         #endregion
 
