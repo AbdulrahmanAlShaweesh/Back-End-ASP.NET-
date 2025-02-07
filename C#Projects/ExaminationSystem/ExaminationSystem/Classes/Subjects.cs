@@ -362,6 +362,5 @@ namespace ExaminationSystem.Classes
             Console.WriteLine("Exam Created Successfully!");
             Console.Clear();
         }
-
     }
 }
