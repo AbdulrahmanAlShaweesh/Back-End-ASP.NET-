@@ -16,8 +16,8 @@ namespace ExaminationSystem.Classes
         #region Constructor
         public Answers(int answerId, string? answerText)
         {
-            this.AnswerId = answerId;
-            this.AnswerText = answerText;
+            AnswerId = answerId;
+            AnswerText = answerText;
         } 
         #endregion
     }

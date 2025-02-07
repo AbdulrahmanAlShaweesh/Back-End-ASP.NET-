@@ -11,14 +11,14 @@ namespace ExaminationSystem.Classes
     internal class TrueAndFalseQuestions : Questions  // this is the first type of question and will inerit question class
     {
         #region Properity
-        bool IsAnswerCorrect { get; set; }
+        private bool IsAnswerCorrect { get; set; }  // Encapsulated for better control
         #endregion
 
         #region Constructor
-        public TrueAndFalseQuestions(string? header, string? body, decimal marks, bool IsAnswerCorrect) 
-            : base(header, body, marks , 2)
+        public TrueAndFalseQuestions(string? header, string? body, int marks, bool IsAnswerCorrect) 
+            : base(header, body, marks, 2)
         {
-            this.IsAnswerCorrect = IsAnswerCorrect;
+            RightAnswers = IsAnswerCorrect ? 1 : 2;
         }
         #endregion
 

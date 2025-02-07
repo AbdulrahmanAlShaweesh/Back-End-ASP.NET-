@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\classes\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\classes\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\classes\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\classes\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\classes\\mcqchooseoneanswerquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\mcqchooseoneanswerquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\c#projects\\examinationsystem\\examinationsystem\\classes\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77615D-F6BA-4B61-A81E-4FB483FD25C4}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\Subjects.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\Subjects.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\Subjects.cs",
+              "RelativeToolTip": "ExaminationSystem\\Classes\\Subjects.cs",
+              "ViewState": "AgIAAA8AAABgZmZmZmYiwMMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:19:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\PracticalExam.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\PracticalExam.cs",
+              "RelativeToolTip": "ExaminationSystem\\Classes\\PracticalExam.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:16:25.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\Helper.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\Helper.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\Helper.cs",
+              "RelativeToolTip": "ExaminationSystem\\Classes\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:09:49.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MCQChooseOneAnswerQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\MCQChooseOneAnswerQuestion.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\MCQChooseOneAnswerQuestion.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\MCQChooseOneAnswerQuestion.cs",
+              "RelativeToolTip": "ExaminationSystem\\Classes\\MCQChooseOneAnswerQuestion.cs",
+              "ViewState": "AgIAACoAAACAZmZmZmYiwC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:51:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeToolTip": "ExaminationSystem\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAzczMzMwYwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:45:08.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\Exam.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\Exam.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\Exam.cs",
+              "RelativeToolTip": "ExaminationSystem\\Classes\\Exam.cs",
+              "ViewState": "AgIAACEAAADAMjMzMzMjwCQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:46:11.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\FinalExam.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#Projects\\ExaminationSystem\\ExaminationSystem\\Classes\\FinalExam.cs",
+              "RelativeToolTip": "ExaminationSystem\\Classes\\FinalExam.cs",
+              "ViewState": "AgIAACQAAAAAzMzMzMz8vxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:46:03.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
