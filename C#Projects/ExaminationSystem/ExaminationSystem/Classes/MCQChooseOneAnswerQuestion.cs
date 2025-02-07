@@ -60,7 +60,7 @@
             if (correctIndex >= 1 && correctIndex <= AnswerList!.Length)
             {
                 RightAnswers = correctIndex ; // Convert from 1-based to 0-based index
-                Console.WriteLine($"Correct answer set to: {RightAnswers }"); // Debugging line
+                //Console.WriteLine($"Correct answer set to: {RightAnswers }"); // Debugging line
             }
             else
             {

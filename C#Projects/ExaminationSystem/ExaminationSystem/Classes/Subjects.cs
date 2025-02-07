@@ -296,7 +296,7 @@ namespace ExaminationSystem.Classes
                 else if (Qtype == 2)  // MCQ Question
                 {
                     Console.WriteLine(" Choose Only One Answer for Each Question ");
-                    Console.WriteLine("-----------------------------------------");
+                    Console.WriteLine("-----------------------------------------\n");
 
                     /////////////////////////////////////////////////////////////////////////////////////
                     string? body;
