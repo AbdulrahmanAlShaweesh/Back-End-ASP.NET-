@@ -7,9 +7,9 @@ using Assignement1OOPs.Enums;
 
 namespace Assignement1OOPs
 {
-    internal class User
+    public  class Product
     {
-        public int Id { get; set; } 
-        public Permissions Permissions { get; set; }
+        public int Id { get; set; }
+        public Colors Color { get; set; }
     }
 }

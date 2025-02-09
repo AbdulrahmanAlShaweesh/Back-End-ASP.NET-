@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\Assignement1OOPs.csproj": {}
+    "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign01\\Assignement1OOPs\\Assignement1OOPs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\Assignement1OOPs.csproj": {
+    "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign01\\Assignement1OOPs\\Assignement1OOPs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\Assignement1OOPs.csproj",
+        "projectUniqueName": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign01\\Assignement1OOPs\\Assignement1OOPs.csproj",
         "projectName": "Assignement1OOPs",
-        "projectPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\Assignement1OOPs.csproj",
+        "projectPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign01\\Assignement1OOPs\\Assignement1OOPs.csproj",
         "packagesPath": "C:\\Users\\Abdulrahman Ibraheem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\CSharp\\ProblemSoving\\CSharp-Problem-Solving\\Assignement1OOPs\\Assignement1OOPs\\obj\\",
+        "outputPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\C#ProblemSolving\\OOPs\\Assign01\\Assignement1OOPs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

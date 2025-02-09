@@ -6,111 +6,144 @@ namespace Assignement1OOPs
     {
         static void Main(string[] args)
         {
-            weekOfDays();
+            WeekDay();
             Console.WriteLine($"{new string('*', 50)}");
-            seasons();
+            Season();
             Console.WriteLine($"{new string('*', 50)}");
-            PrimaryColor();
-            Permiss();
+            Permission();
+            Console.WriteLine($"{new string('*', 50)}");
+            Color();
         }
 
-        #region Problem 1
-        static void weekOfDays()
+        #region WeekDays : Problem 01    
+        public static void WeekDay()
         {
-            // Display Week Of the days..
-            Console.WriteLine(DayOfWeek.Monday);
-            Console.WriteLine(DayOfWeek.Tuesday);
-            Console.WriteLine(DayOfWeek.Wednesday);
-            Console.WriteLine(DayOfWeek.Thursday);
-            Console.WriteLine(DayOfWeek.Friday);
-            Console.WriteLine(DayOfWeek.Saturday);
-            Console.WriteLine(DayOfWeek.Sunday);
+            /*
+        * Create an Enum called "WeekDays" with the days of the week 
+        * (Monday to Sunday) as its members. Then, write a C# program 
+        * that prints out all the days of the week using this Enum.
+       */
 
-            // using foreach
-            Console.WriteLine("\nWill use Foreach to Display the data\n");
-            foreach (DayOfWeek day in Enum.GetValues(typeof(DayOfWeek)))
+
+            WeekDays[] weekDays = { WeekDays.Monday, WeekDays.Tuesday,
+                                WeekDays.Wednesday, WeekDays.Thursday,
+                                WeekDays.Friday, WeekDays.Saturday,
+                                WeekDays.Sunday
+                               };
+            int counter = 1;
+
+            foreach(WeekDays day in weekDays)
             {
-                Console.WriteLine(day.ToString());
+                Console.WriteLine($"{counter}. {day.ToString()}");
+                counter++;
             }
         }
         #endregion
 
-        #region Problem 2
-        static void seasons()
+        #region Seas : Problem 02      
+        public static void Season()
         {
-            
-            Console.WriteLine("Enter seasons name : ");
-            string Input = Console.ReadLine()??"enter season name";
+            /*
+             * Create an Enum called "Seas on" with the four seasons 
+             * (Spring, Summer, Autumn, Winter) as its members. 
+             * Write a C# program that takes a season name as input 
+             * from the user and displays the corresponding month range 
+             * for that season. Note range for seasons ( spring march to may , summer june to august , 
+             * autumn September to November , winter December to February)
+             */
 
-            if (Enum.TryParse(Input, true, out Seas season))
+            Seasons season;
+            bool IsSeasonParsed;
+
+            do {
+                Console.Write("Please Enter Season Name : ");
+                IsSeasonParsed = Enum.TryParse(Console.ReadLine(), out season);
+            } while (!IsSeasonParsed);
+
+
+            if(season == Seasons.Spring)
             {
-                switch (season)
-                {
-                    case Seas.Spring:
-                        Console.WriteLine("Spring: March to May");
-                        break;
-                    case Seas.Summer:
-                        Console.WriteLine("Summer : June to Augost");
-                        break;
-                    case Seas.Autom:
-                        Console.WriteLine("Autom : Septamber to November");
-                        break;
-                    case Seas.Winter:
-                        Console.WriteLine("Winter : Decimber to February");
-                        break;
-                }
+                Console.WriteLine("March-May");
+            }else if (season == Seasons.Summer) {
+                Console.WriteLine("June-August");
+            }else if(season == Seasons.Autumn)
+            {
+                Console.WriteLine("September-November");
+            }else if(season == Seasons.Winter)
+            {
+                Console.WriteLine("December-February");
             }
         }
         #endregion
 
-        #region Problem 3
-        static void Permiss() {
+        #region Permissions : Problems 03    
+        public static void Permission()
+        {
+            /* 
+             * Assign the following Permissions (Read, write, Delete, Execute) in a form of Enum           .
+             * Create Variable from previous Enum to Add and Remove Permission from variable, 
+             * check if specific Permission existed inside variable
+             */
             User user = new User();
-            user.Permissions = (Permissions)3;
-
-            user.Permissions = user.Permissions ^ Permissions.Delete; // adding write permission to use using XOR
+            user.Id = 1;                // allocate 4 bytes at stack
+            user.Permissions = (Permissions)3;  // Read, Write
+                                                // 00000011 => 3 decimal = Read, Write
+                                                // using XOR to add a permission
             Console.WriteLine(user.Permissions);
-
-            // Remove / Deny Write From User using XOR
-            user.Permissions = user.Permissions ^ Permissions.Write;
+            user.Permissions ^= Permissions.Delete;  // if Delete exist will remove it from the permision list
+            Console.WriteLine("After adding Delete Permission");
             Console.WriteLine(user.Permissions);
+            user.Permissions ^= Permissions.Read;  // will remove read due to its alreadyexist
 
-            if((user.Permissions & Permissions.Read) == Permissions.Read)
-            {
-                Console.WriteLine("User has Read Permission");
-            }
-            else
-            {
-                Console.WriteLine("User does not have Read Permission");
-            }
-        }
-        #endregion
+            // CHECK IF PERMISSION IN THE LIST, IF YES IGNOURE ELSE ADD IT TO PERMISSIONS LIST
+            if ((user.Permissions & Permissions.Read) != Permissions.Read) { // IF READ NOT IN THE PERMISSIONS LIST
 
-        #region
-        static void PrimaryColor()
-        {
-            Console.WriteLine("Enter a Color: ");
-            string color = Console.ReadLine() ?? "Enter a valid Color name"; 
+                bool IsPermission;
+                Permissions Permission;
 
-            if(Enum.TryParse(color , out Colors colors))
-            {
-                switch (colors)
+                do
                 {
-                    case Colors.Red: 
-                        Console.WriteLine("the color red is primary color");
-                        break;
-                    case Colors.Green:
-                        Console.WriteLine("The color green is not a primary color");
-                        break; 
-                    case Colors.Blue:
-                        Console.WriteLine("The color blue is a primary color");
-                        break;
-                    default: 
-                        Console.WriteLine($"The color {color} is not primary color");
-                        break;
-                }
+                    Console.WriteLine("Please Enter Permission : ");
+                    IsPermission = Enum.TryParse(Console.ReadLine()!.Trim(), out  Permission);
+                } while (!IsPermission);
+
+                user.Permissions ^= Permissions.Read;
+            }else
+            {
+                Console.WriteLine($"Permission {Permission} already exist");
+            }
+            Console.WriteLine(user.Permissions);
+            // remove permision 
+            user.Permissions ^= Permissions.Delete;
+            Console.WriteLine("After removing Delete Pemission");
+            Console.WriteLine(user.Permissions);
+            user.Permissions |= Permissions.Read; // adding Read permission using OR : if exist will leave it as it is
+            Console.WriteLine("After adding Read Permission using OR operator");
+            Console.WriteLine(user.Permissions);
+        }
+        #endregion
+
+        #region Colors : Problem 04  
+        public static void Color()
+        {
+            Colors colors;
+            bool IsColorParsed;
+
+            do
+            {
+                Console.Write("Please Enter a color Name : ");
+                IsColorParsed = Enum.TryParse(Console.ReadLine()!.Trim(),out colors);
+            } while (!IsColorParsed);
+
+            if (colors == Colors.Green || colors == Colors.Red || colors == Colors.Blue)
+            {
+                Console.WriteLine($"The color {colors} is a primary color");
+            }else
+            {
+                Console.WriteLine($"The color {colors} is not a primary color");
             }
         }
         #endregion
+
     }
 }
