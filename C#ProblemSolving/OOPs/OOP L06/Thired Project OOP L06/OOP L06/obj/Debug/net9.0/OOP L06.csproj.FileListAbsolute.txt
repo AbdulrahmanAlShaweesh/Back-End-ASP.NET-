@@ -1,0 +1,14 @@
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\OOP L06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\OOP L06.AssemblyInfoInputs.cache
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\OOP L06.AssemblyInfo.cs
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\OOP L06.csproj.CoreCompileInputs.cache
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\bin\Debug\net9.0\OOP L06.exe
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\bin\Debug\net9.0\OOP L06.deps.json
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\bin\Debug\net9.0\OOP L06.runtimeconfig.json
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\bin\Debug\net9.0\OOP L06.dll
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\bin\Debug\net9.0\OOP L06.pdb
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\OOP L06.dll
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\refint\OOP L06.dll
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\OOP L06.pdb
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\OOP L06.genruntimeconfig.cache
+C:\Users\Osama\OneDrive\Desktop\Thired Project OOP L06\OOP L06\obj\Debug\net9.0\ref\OOP L06.dll
