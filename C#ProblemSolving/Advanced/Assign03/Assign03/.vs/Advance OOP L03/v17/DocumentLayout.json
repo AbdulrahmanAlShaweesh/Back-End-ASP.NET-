@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|c:\\users\\osama\\onedrive\\desktop\\advance oop l03\\advance oop l03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|solutionrelative:advance oop l03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|c:\\users\\osama\\onedrive\\desktop\\advance oop l03\\advance oop l03\\classes\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|solutionrelative:advance oop l03\\classes\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|c:\\users\\osama\\onedrive\\desktop\\advance oop l03\\advance oop l03\\classes\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|solutionrelative:advance oop l03\\classes\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|c:\\users\\osama\\onedrive\\desktop\\advance oop l03\\advance oop l03\\classes\\bookdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|solutionrelative:advance oop l03\\classes\\bookdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|c:\\users\\osama\\onedrive\\desktop\\advance oop l03\\advance oop l03\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A621229-643D-4C77-BAEE-1C7CA03E6C74}|Advance OOP L03\\Advance OOP L03.csproj|solutionrelative:advance oop l03\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Classes\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "Advance OOP L03\\Classes\\LibraryEngine.cs",
+              "ToolTip": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Classes\\LibraryEngine.cs",
+              "RelativeToolTip": "Advance OOP L03\\Classes\\LibraryEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:25:21.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Classes\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "Advance OOP L03\\Classes\\BookFunctions.cs",
+              "ToolTip": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Classes\\BookFunctions.cs",
+              "RelativeToolTip": "Advance OOP L03\\Classes\\BookFunctions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:25:14.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Classes\\BookDelegate.cs",
+              "RelativeDocumentMoniker": "Advance OOP L03\\Classes\\BookDelegate.cs",
+              "ToolTip": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Classes\\BookDelegate.cs",
+              "RelativeToolTip": "Advance OOP L03\\Classes\\BookDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:25:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Classes\\Book.cs",
+              "RelativeDocumentMoniker": "Advance OOP L03\\Classes\\Book.cs",
+              "ToolTip": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Classes\\Book.cs",
+              "RelativeToolTip": "Advance OOP L03\\Classes\\Book.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:25:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Program.cs",
+              "RelativeDocumentMoniker": "Advance OOP L03\\Program.cs",
+              "ToolTip": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L03\\Advance OOP L03\\Program.cs",
+              "RelativeToolTip": "Advance OOP L03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:13:04.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
