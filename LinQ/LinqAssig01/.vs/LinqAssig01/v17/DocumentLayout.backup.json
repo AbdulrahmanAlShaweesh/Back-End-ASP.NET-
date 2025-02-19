@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\linq\\linqassig01\\linqassig01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|solutionrelative:linqassig01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\Data\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinqAssig01\\Data\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\ListGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinqAssig01\\ListGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "LinqAssig01\\Data\\Customer.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\Data\\Customer.cs",
+              "RelativeToolTip": "LinqAssig01\\Data\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:17:02.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "LinqAssig01\\ListGenerator.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\ListGenerator.cs",
+              "RelativeToolTip": "LinqAssig01\\ListGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:12:26.433Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +56,7 @@
               "RelativeDocumentMoniker": "LinqAssig01\\Program.cs",
               "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\Program.cs",
               "RelativeToolTip": "LinqAssig01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAANDMzMzPzv6YAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T08:37:22.455Z",
               "EditorCaption": ""
