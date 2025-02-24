@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\Migrations\\20250219233332_CreatedInstructorTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assign01\\Migrations\\20250219233332_CreatedInstructorTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB71021C-1EB5-48F2-8697-9F1119996986}|Assign01\\Assign01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\entityframework\\assign01\\assign01\\dbcontexts\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB71021C-1EB5-48F2-8697-9F1119996986}|Assign01\\Assign01.csproj|solutionrelative:assign01\\dbcontexts\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB71021C-1EB5-48F2-8697-9F1119996986}|Assign01\\Assign01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\entityframework\\assign01\\assign01\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB71021C-1EB5-48F2-8697-9F1119996986}|Assign01\\Assign01.csproj|solutionrelative:assign01\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB71021C-1EB5-48F2-8697-9F1119996986}|Assign01\\Assign01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\entityframework\\assign01\\assign01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB71021C-1EB5-48F2-8697-9F1119996986}|Assign01\\Assign01.csproj|solutionrelative:assign01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,51 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250219233332_CreatedInstructorTable.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\Migrations\\20250219233332_CreatedInstructorTable.cs",
-              "RelativeDocumentMoniker": "Assign01\\Migrations\\20250219233332_CreatedInstructorTable.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\Migrations\\20250219233332_CreatedInstructorTable.cs",
-              "RelativeToolTip": "Assign01\\Migrations\\20250219233332_CreatedInstructorTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T23:33:32.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\Models\\Instructor.cs",
-              "RelativeDocumentMoniker": "Assign01\\Models\\Instructor.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\Models\\Instructor.cs",
-              "RelativeToolTip": "Assign01\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T23:30:05.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\DbContexts\\ItiDbContext.cs",
-              "RelativeDocumentMoniker": "Assign01\\DbContexts\\ItiDbContext.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\DbContexts\\ItiDbContext.cs",
-              "RelativeToolTip": "Assign01\\DbContexts\\ItiDbContext.cs",
-              "ViewState": "AgIAABAAAACgmZmZmZktwBwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:42:57.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\Program.cs",
               "RelativeDocumentMoniker": "Assign01\\Program.cs",
               "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\EntityFrameWork\\Assign01\\Assign01\\Program.cs",
               "RelativeToolTip": "Assign01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T22:26:57.477Z",
               "EditorCaption": ""

@@ -10,6 +10,11 @@ namespace Assign01
             ItiDbContext dbContext = new ItiDbContext();
 
             //List<Student> students = dbContext.Students.Where(S => S.FName!.StartsWith("A")).ToList();
+
+            Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
         }
+
+
     }
 }
