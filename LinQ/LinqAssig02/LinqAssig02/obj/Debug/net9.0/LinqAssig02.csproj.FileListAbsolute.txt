@@ -1,0 +1,15 @@
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\bin\Debug\net9.0\LinqAssig02.exe
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\bin\Debug\net9.0\LinqAssig02.deps.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\bin\Debug\net9.0\LinqAssig02.runtimeconfig.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\bin\Debug\net9.0\LinqAssig02.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\bin\Debug\net9.0\LinqAssig02.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\LinqAssig02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\LinqAssig02.AssemblyInfoInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\LinqAssig02.AssemblyInfo.cs
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\LinqAssig02.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\LinqAssig02.sourcelink.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\LinqAssig02.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\refint\LinqAssig02.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\LinqAssig02.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\LinqAssig02.genruntimeconfig.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig02\LinqAssig02\obj\Debug\net9.0\ref\LinqAssig02.dll
