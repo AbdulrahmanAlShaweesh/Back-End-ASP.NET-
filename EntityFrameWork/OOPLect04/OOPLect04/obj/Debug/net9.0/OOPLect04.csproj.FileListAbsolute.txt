@@ -1,0 +1,15 @@
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\bin\Debug\net9.0\OOPLect04.exe
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\bin\Debug\net9.0\OOPLect04.deps.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\bin\Debug\net9.0\OOPLect04.runtimeconfig.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\bin\Debug\net9.0\OOPLect04.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\bin\Debug\net9.0\OOPLect04.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\OOPLect04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\OOPLect04.AssemblyInfoInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\OOPLect04.AssemblyInfo.cs
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\OOPLect04.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\OOPLect04.sourcelink.json
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\OOPLect04.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\refint\OOPLect04.dll
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\OOPLect04.pdb
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\OOPLect04.genruntimeconfig.cache
+C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\EntityFrameWork\OOPLect04\OOPLect04\obj\Debug\net9.0\ref\OOPLect04.dll
