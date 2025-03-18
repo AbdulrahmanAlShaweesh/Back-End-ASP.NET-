@@ -13,3 +13,18 @@ C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig01\
 C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.pdb
 C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.genruntimeconfig.cache
 C:\Users\Abdulrahman Ibraheem\Documents\BackEnd\BackEndASP.Net\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\ref\LinqAssig01.dll
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\bin\Debug\net9.0\LinqAssig01.exe
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\bin\Debug\net9.0\LinqAssig01.deps.json
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\bin\Debug\net9.0\LinqAssig01.runtimeconfig.json
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\bin\Debug\net9.0\LinqAssig01.dll
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\bin\Debug\net9.0\LinqAssig01.pdb
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.AssemblyInfo.cs
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.sourcelink.json
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.dll
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\refint\LinqAssig01.dll
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.pdb
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\LinqAssig01.genruntimeconfig.cache
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\LinQ\LinqAssig01\LinqAssig01\obj\Debug\net9.0\ref\LinqAssig01.dll

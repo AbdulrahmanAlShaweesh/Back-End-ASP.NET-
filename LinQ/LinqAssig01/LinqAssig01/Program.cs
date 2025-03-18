@@ -2,6 +2,7 @@
 using System.Runtime.Intrinsics.Arm;
 using System.Threading;
 using LinqLect01;
+using LinqLect01.Data;
 
 namespace LinqAssig01
 {
@@ -12,40 +13,64 @@ namespace LinqAssig01
             #region LINQ - Restriction Operators
             #region 1. Find all products that are out of stock.
             // Fluent Syntex
-            var Resutl01 = ListGenerator.ProductList.Where(P => P.UnitsInStock == 0);
+            var Result01 = ListGenerator.ProductList
+                                        .Where(P => P.UnitsInStock == 0);
 
-            // Query Syntex
-            Resutl01 = from P in ListGenerator.ProductList
+            Result01 = from P in ListGenerator.ProductList
                        where P.UnitsInStock == 0
                        select P;
+            //foreach (var item in Result01)
+            //{
+            //    Console.WriteLine(item.ProductID);
+            //}
             #endregion
 
 
             #region 2. Find all products that are in stock and cost more than 3.00 per unit.
             // Fluent Syntex
-            var Result02 = ListGenerator.ProductList.Where(P => P.UnitsInStock > 0 && P.UnitPrice > 3);
-            Result02 = ListGenerator.ProductList.Where(P => P.UnitsInStock > 0).Where(P => P.UnitPrice > 3);
+
+            var Result02 = ListGenerator.ProductList
+                                        .Where(P => P.UnitsInStock > 0)
+                                        .Where(P => P.UnitPrice > 3);
+            Result02 = ListGenerator.ProductList.
+                                    Where(P => P.UnitsInStock != 0 && P.UnitPrice > 3.00M);
+
 
             // Query Syntex
             Result02 = from P in ListGenerator.ProductList
-                       where P.UnitsInStock > 0 && P.UnitPrice > 3
+                       where P.UnitsInStock != 0 && P.UnitPrice > 3.00M
                        select P;
-            #endregion
 
-            #region 3. Returns digits whose name is shorter than their value.
-            var Result03 = ListGenerator.ProductList.Where(P => P.ProductName.Length < P.UnitPrice).
-                                                    Select(P => P.ProductID);
-
-            Result03 = from P in ListGenerator.ProductList
-                       where P.ProductName.Length < P.UnitPrice
-                       select P.ProductID;
-            #endregion
-
-            //foreach (var item in Result03)
+            //foreach(var item in Result02)
             //{
             //    Console.WriteLine(item);
             //}
             #endregion
+
+            #region 3. Returns digits whose name is shorter than their value.
+            string[] names = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+
+            // using indexed where
+            var Result03 = names.Where((element, Index) => element.Length < Index);
+
+
+            //foreach(var item in Result03)
+            //{
+            //    Console.WriteLine( item);
+            //}
+
+            #endregion
+
+
+            #endregion
+
+
+
+
+
+
+
+
 
             #region  Element Operators
 
@@ -55,18 +80,25 @@ namespace LinqAssig01
             var Result05 = (from P in ListGenerator.ProductList
                             where P.UnitsInStock == 0
                             select P).FirstOrDefault();
+
             //Console.WriteLine(Result05);
             #endregion
 
             #region 2.Return the first product whose Price > 1000, unless there is no match, in which case null is returned.
-            var Result06 = ListGenerator.ProductList?.FirstOrDefault(P => P.UnitPrice > 1000);
+
+            var Result06 = ListGenerator.ProductList.FirstOrDefault(P => P.UnitPrice > 1000);
+
+            Result06 = (from P in ListGenerator.ProductList
+                        where P.UnitPrice > 1000
+                        select P).FirstOrDefault();
 
             //Console.WriteLine(Result06);
             #endregion
 
             #region 3. Retrieve the second number greater than 5 
-            var Result07 = ListGenerator.ProductList.Where(P => P.UnitPrice > 5).
-                                                    Skip(1).FirstOrDefault();
+            int[] numbers = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
+
+            var Result07 = numbers.Where(P => P > 5).ElementAt(1);
 
             //Console.WriteLine(Result07);
             #endregion
@@ -76,41 +108,61 @@ namespace LinqAssig01
 
             #region 1. Uses Count to get the number of odd numbers in the array.
             int[] Arr = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
-            var Resu01 = Arr.Where(P => P % 2 == 0).Count();
-            //Console.WriteLine(Resu01);
+            var Result08 = Arr.Where(P => P % 2 == 0).Count();
+            //Console.WriteLine(Result08);
             #endregion
 
             #region  2.0 Return a list of customers and how many orders each has
-            var Resul02 = ListGenerator.CustomerList.SelectMany(P => P.Orders).Count();
+            var Result09 = ListGenerator.CustomerList.
+                                         Select(C => new { C.CustomrName, Count = C.Orders.Count() });
 
-            //Console.WriteLine(Resul02);
+            //foreach (var item in Result09)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
 
             #endregion
 
             #region 3.0 Return a list of categories and how many products each has
-            var Resul03 = ListGenerator.ProductList.GroupBy(P => P.Category).Select(g => new
+            var Result10 = ListGenerator.ProductList.GroupBy(P => P.Category).Select(g => new
             {
-                Category = g.Key, productCount = g.Count()
+                Category = g.Key,
+                Count = g.Key.Count()
             });
-            //Console.WriteLine(Resul03);
-            //foreach (var item in Resul03)
+
+
+
+            //foreach ( var item in Result10)
             //{
             //    Console.WriteLine(item);
-
             //}
             #endregion
 
             #region 4.0 Get the total of the numbers in an array.
             int[] arr = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
+
             var Result11 = arr.Sum();
             //Console.WriteLine(Result11);
             #endregion
 
             #region 5. Get the total number of characters of all words in dictionary_english.txt (Read dictionary_english.txt into Array of String Firs
+            var words = File.ReadAllLines("dictionary_english.txt");
 
+            var Result12 = words.Sum(E => E.Length);
+            //Console.WriteLine(Result12);
+            #endregion
+
+            #region 6.0 Get the length  of the shortest  word in dictionary english.txt file
+            var Result13 = words.Min(W => W.Length);
+            //Console.WriteLine(Result13);
             #endregion
             #endregion
 
+            #region 7.0 Get the length  of the shortest  word in dictionary english.txt file
+            var Result14 = words.Max(W => W.Length);
+            //Console.WriteLine(Result14);
+            #endregion
             #region LINQ - Ordering Operators
 
             #region 1. Sort a list of products by name

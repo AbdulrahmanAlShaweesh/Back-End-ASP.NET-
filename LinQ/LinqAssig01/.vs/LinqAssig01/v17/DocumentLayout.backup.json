@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\",
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\LinQ\\LinqAssig01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\linq\\linqassig01\\linqassig01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\linq\\linqassig01\\linqassig01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|solutionrelative:linqassig01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\linq\\linqassig01\\linqassig01\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\linq\\linqassig01\\linqassig01\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|solutionrelative:linqassig01\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|c:\\users\\abdulrahman ibraheem\\documents\\backend\\backendasp.net\\linq\\linqassig01\\linqassig01\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\linq\\linqassig01\\linqassig01\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5F0B2EB-ADFA-4338-9675-155775E4679C}|LinqAssig01\\LinqAssig01.csproj|solutionrelative:linqassig01\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\Data\\Customer.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\LinQ\\LinqAssig01\\LinqAssig01\\Data\\Customer.cs",
               "RelativeDocumentMoniker": "LinqAssig01\\Data\\Customer.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\Data\\Customer.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\LinQ\\LinqAssig01\\LinqAssig01\\Data\\Customer.cs",
               "RelativeToolTip": "LinqAssig01\\Data\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ListGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\ListGenerator.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\LinQ\\LinqAssig01\\LinqAssig01\\ListGenerator.cs",
               "RelativeDocumentMoniker": "LinqAssig01\\ListGenerator.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\ListGenerator.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\LinQ\\LinqAssig01\\LinqAssig01\\ListGenerator.cs",
               "RelativeToolTip": "LinqAssig01\\ListGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\LinQ\\LinqAssig01\\LinqAssig01\\Program.cs",
               "RelativeDocumentMoniker": "LinqAssig01\\Program.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman Ibraheem\\Documents\\BackEnd\\BackEndASP.Net\\LinQ\\LinqAssig01\\LinqAssig01\\Program.cs*",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\LinQ\\LinqAssig01\\LinqAssig01\\Program.cs*",
               "RelativeToolTip": "LinqAssig01\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAMzMzMzPzv7IAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAACgCAAAAAAowKIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T08:37:22.455Z",
               "EditorCaption": ""
