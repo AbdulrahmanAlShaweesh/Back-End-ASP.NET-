@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Route.Demo.DataAccess.Data.DbContexts;
+
 namespace Route.Demo.Presentation
 {
     public class Program
@@ -8,7 +11,17 @@ namespace Route.Demo.Presentation
 
 
             #region  Add services to the container.
-            builder.Services.AddControllersWithViews(); 
+            builder.Services.AddControllersWithViews();
+
+            //builder.Services.AddScoped<ApplicationDbContext>(); // Registor to Serves in DJ Container
+            // using AddScoped , singleto, traintion if we are working with normal server, but with DbContext we need to work with DbContext
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                // 3 ways to get anything or connection string from appsettings 
+                options.UseSqlServer(builder.Configuration.GetConnectionString("defualtConnection")); // allow CLR to Create object from DbContext when needed
+            });
+
+
             #endregion
 
             var app = builder.Build();
@@ -36,7 +49,7 @@ namespace Route.Demo.Presentation
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}"); 
+                pattern: "{controller=Home}/{action=Index}/{id:int?}"); 
             #endregion
 
             app.Run();
