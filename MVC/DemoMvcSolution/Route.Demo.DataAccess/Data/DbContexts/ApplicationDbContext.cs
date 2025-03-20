@@ -5,14 +5,11 @@ using Route.Demo.DataAccess.Data.Configurations;
 
 namespace Route.Demo.DataAccess.Data.DbContexts
 {
-    public class ApplicationDbContext : DbContext
+    // Primary Constructor
+    // Tell CLR When creating an object from ApplicationDbContext that it is depend on DbContextOption<ApplicationDbContext> option of the dbcontext
+    public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : DbContext(options)
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base (options)  // Tell CLR When creating an object from ApplicationDbContext that it is depend on DbContextOption<ApplicationDbContext> option of the dbcontext
-        {
-            
-        }
-
-        DbSet<Department> departments { get; set; }        // Create a table for Department
+        public DbSet<Department> Departments { get; set; }        // Create a table for Department
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
