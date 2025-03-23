@@ -26,7 +26,7 @@ namespace Route.Demo.DataAccess.Repositories.DepartmentRepo
             if (WithTracking)
                 return _dbContext.Departments.ToList();
             else
-                return _dbContext.Departments.AsNoTracking().ToList();  // does not track the changes
+                return _dbContext.Departments.AsNoTracking();  // does not track the changes
 
         }
         // 2. Get By ID

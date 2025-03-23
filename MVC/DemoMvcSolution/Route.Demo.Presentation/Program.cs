@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Route.Demo.DataAccess.Data.DbContexts;
 using Route.Demo.DataAccess.Repositories.DepartmentRepo;
+using RouteDemo.BusinessLogic.Services.DepartmentServices;
 
 namespace Route.Demo.Presentation
 {
@@ -22,8 +23,11 @@ namespace Route.Demo.Presentation
                 options.UseSqlServer(builder.Configuration.GetConnectionString("defualtConnection")); // allow CLR to Create object from DbContext when needed
             });
 
-            builder.Services.AddScoped<DepartmentRepository>();  // 2.0 CLR Will registor the service, when creating object from DepartmentRepository
+            //builder.Services.AddScoped<DepartmentRepository>();  // 2.0 CLR Will registor the service, when creating object from DepartmentRepository
 
+            //builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); // Tell CLR if any one need an object from IDepartmentRepository, creat an object from DepartmentRepository for Him : if we working with testing
+            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); // Tell CLR if any one need an object from IDepartmentRepository, creat an object from DepartmentRepository for Him  : if we working with dev, and this why we work asginst interface not concat class
+            builder.Services.AddScoped<IDepartmentServices, DepartmentServices>();
             #endregion
 
             var app = builder.Build();
