@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClothingStore.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1bbf5441770a300310c9e97a5cf07a0ac1416f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a7d9a0b8a71af43960f5781aa24dd92bd9a2979")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClothingStore.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClothingStore.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

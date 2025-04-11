@@ -1,4 +1,6 @@
 using ClothingStore.DataAccess.Data.DbContexts;
+using ClothingStore.DataAccess.Repositories.CategoryRepository;
+using ClothingStore.DataAccess.Repositories.ProductRespository;
 using Microsoft.EntityFrameworkCore;
 
 namespace ClothingStore.Presentation.Layter
@@ -17,6 +19,9 @@ namespace ClothingStore.Presentation.Layter
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("defualtConnection"));
             });
+
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();   // Registor Service.
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
             var app = builder.Build();
             #endregion

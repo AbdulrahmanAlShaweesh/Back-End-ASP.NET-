@@ -1,10 +1,10 @@
-﻿ 
+﻿
 using ClothingStore.DataAccess.Data.DbContexts;
- 
+
 
 namespace ClothingStore.DataAccess.Repositories.ProductRespository
 {
-    class ProductRepository(ApplicationDbContext _dbContext) : IProductRepository
+    public class ProductRepository(ApplicationDbContext _dbContext) : IProductRepository
     {
 
         //////////////////////////////////////////////////// CRUD ////////////////////////////////////////////
@@ -14,10 +14,10 @@ namespace ClothingStore.DataAccess.Repositories.ProductRespository
             else return _dbContext.Products.AsNoTracking();
         }
 
-       
+
         // GET Product BY ID
         public Product? GetById(int id) => _dbContext.Products.Find(id);
- 
+
 
         // Add Product
         public int Add(Product product)
@@ -29,7 +29,7 @@ namespace ClothingStore.DataAccess.Repositories.ProductRespository
 
         public int Remove(Product product)
         {
-            _dbContext.Remove(product);   
+            _dbContext.Remove(product);
             return _dbContext.SaveChanges();
         }
 
