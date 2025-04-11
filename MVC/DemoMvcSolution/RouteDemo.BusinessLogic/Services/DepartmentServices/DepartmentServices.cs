@@ -11,6 +11,7 @@ using RouteDemo.BusinessLogic.Factories;
 
 namespace RouteDemo.BusinessLogic.Services.DepartmentServices
 {
+    // we inject an object from class that inherit from IDepartmentRepository
     public class DepartmentServices(IDepartmentRepository _departmentRepository) : IDepartmentServices
     {
         // 1.0 Injection : CLR will understand that we need in inject DepartmentRepsoitoty, but it can not do it

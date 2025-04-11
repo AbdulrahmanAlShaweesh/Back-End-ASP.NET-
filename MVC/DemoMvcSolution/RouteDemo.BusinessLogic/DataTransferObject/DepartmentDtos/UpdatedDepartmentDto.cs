@@ -12,6 +12,6 @@ namespace RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos
         public string Name { get; set; } = string.Empty; // due to Name filed does not allow null in db and in update may change may not
         public string Code { get; set; } = string.Empty;
         public DateOnly DateOfCreation { get; set; }
-        public string Description { get; set; }
+        public string? Description { get; set; }
     }
 }

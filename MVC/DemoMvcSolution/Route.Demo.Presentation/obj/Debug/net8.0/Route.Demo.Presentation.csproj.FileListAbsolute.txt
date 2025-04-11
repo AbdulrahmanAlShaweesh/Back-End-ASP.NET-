@@ -265,3 +265,4 @@ C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\MVC\DemoMvcSolution\Route.Demo
 C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\MVC\DemoMvcSolution\Route.Demo.Presentation\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\MVC\DemoMvcSolution\Route.Demo.Presentation\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\MVC\DemoMvcSolution\Route.Demo.Presentation\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Mac\Home\Documents\FullStock\Back-End-ASP.NET-\MVC\DemoMvcSolution\Route.Demo.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll

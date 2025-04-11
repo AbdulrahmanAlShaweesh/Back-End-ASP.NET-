@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LjvIs9X43Js=",
+  "dgSpecHash": "zi9Gh2FWL/Q=",
   "success": true,
   "projectFilePath": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Route.Demo.Presentation.csproj",
   "expectedPackageFiles": [
@@ -79,8 +79,10 @@
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.14\\microsoft.entityframeworkcore.8.0.14.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.14\\microsoft.entityframeworkcore.abstractions.8.0.14.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.14\\microsoft.entityframeworkcore.analyzers.8.0.14.nupkg.sha512",
+    "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.14\\microsoft.entityframeworkcore.design.8.0.14.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.14\\microsoft.entityframeworkcore.relational.8.0.14.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.14\\microsoft.entityframeworkcore.sqlserver.8.0.14.nupkg.sha512",
+    "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.14\\microsoft.entityframeworkcore.tools.8.0.14.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

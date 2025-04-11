@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.presentation\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|solutionrelative:route.demo.presentation\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.dataaccess\\repositories\\departmentrepo\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|solutionrelative:route.demo.dataaccess\\repositories\\departmentrepo\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|solutionrelative:route.demo.presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.dataaccess\\data\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|solutionrelative:route.demo.dataaccess\\data\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.presentation\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|solutionrelative:route.demo.presentation\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D73B3E-2F8A-4B6E-998C-375595C6E1C7}|RouteDemo.BusinessLogic\\RouteDemo.BusinessLogic.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\routedemo.businesslogic\\datatransferobject\\departmentdtos\\updateddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D73B3E-2F8A-4B6E-998C-375595C6E1C7}|RouteDemo.BusinessLogic\\RouteDemo.BusinessLogic.csproj|solutionrelative:routedemo.businesslogic\\datatransferobject\\departmentdtos\\updateddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Repositories\\DepartmentRepo\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Repositories\\DepartmentRepo\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Repositories\\DepartmentRepo\\DepartmentRepository.cs",
-              "RelativeToolTip": "Route.Demo.DataAccess\\Repositories\\DepartmentRepo\\DepartmentRepository.cs",
-              "ViewState": "AgIAAA8AAADAl5mZmdkkwBwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:57:10.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\DbContexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Data\\DbContexts\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\DbContexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Route.Demo.DataAccess\\Data\\DbContexts\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAlmpmZmRkmwAsAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:53:54.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "Route.Demo.Presentation\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "Route.Demo.Presentation\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Route.Demo.Presentation\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "Route.Demo.Presentation\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T19:53:17.467Z",
+              "WhenOpened": "2025-04-10T14:10:05.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UpdatedDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\RouteDemo.BusinessLogic\\DataTransferObject\\DepartmentDtos\\UpdatedDepartmentDto.cs",
+              "RelativeDocumentMoniker": "RouteDemo.BusinessLogic\\DataTransferObject\\DepartmentDtos\\UpdatedDepartmentDto.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\RouteDemo.BusinessLogic\\DataTransferObject\\DepartmentDtos\\UpdatedDepartmentDto.cs",
+              "RelativeToolTip": "RouteDemo.BusinessLogic\\DataTransferObject\\DepartmentDtos\\UpdatedDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:24:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Route.Demo.Presentation\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Route.Demo.Presentation\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Controllers\\DepartmentController.cs*",
+              "RelativeToolTip": "Route.Demo.Presentation\\Controllers\\DepartmentController.cs*",
+              "ViewState": "AgIAALIAAAAAmpmZmZkbwNwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T17:25:09.712Z",
+              "WhenOpened": "2025-03-25T08:34:56.592Z",
               "EditorCaption": ""
             }
           ]

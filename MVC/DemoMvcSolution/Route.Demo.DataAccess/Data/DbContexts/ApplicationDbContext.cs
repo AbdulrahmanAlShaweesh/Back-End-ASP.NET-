@@ -16,7 +16,7 @@ namespace Route.Demo.DataAccess.Data.DbContexts
              //modelBuilder.ApplyConfiguration<Department>(new DepartmentConfigurations()); // if we have view Models
              modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly()); // if all configrations as on the same project
              // if models are in differante layer than configrations
-             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);  // to get the configrations for current executed project (mvc) or prsentation layer
+             //modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);  // to get the configrations for current executed project (mvc) or prsentation layer
         }
 
     }
