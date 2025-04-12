@@ -2,6 +2,7 @@
 
 using System.Reflection;
 using Route.Demo.DataAccess.Data.Configurations;
+using Route.Demo.DataAccess.Models.DepartmentModel;
 
 namespace Route.Demo.DataAccess.Data.DbContexts
 {
@@ -10,6 +11,7 @@ namespace Route.Demo.DataAccess.Data.DbContexts
     public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : DbContext(options)
     {
         public DbSet<Department> Departments { get; set; }        // Create a table for Department
+        public DbSet<Employee> Employees { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

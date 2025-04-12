@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|solutionrelative:route.demo.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.dataaccess\\data\\migrations\\20250412070538_createemployeemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|solutionrelative:route.demo.dataaccess\\data\\migrations\\20250412070538_createemployeemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.dataaccess\\data\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|solutionrelative:route.demo.dataaccess\\data\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.dataaccess\\models\\employeemodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|solutionrelative:route.demo.dataaccess\\models\\employeemodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.dataaccess\\data\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|solutionrelative:route.demo.dataaccess\\data\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.dataaccess\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|solutionrelative:route.demo.dataaccess\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|c:\\mac\\home\\documents\\fullstock\\back-end-asp.net-\\mvc\\demomvcsolution\\route.demo.dataaccess\\data\\configurations\\baseentityconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|solutionrelative:route.demo.dataaccess\\data\\configurations\\baseentityconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "Route.Demo.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.Presentation\\appsettings.json",
-              "RelativeToolTip": "Route.Demo.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-10T19:51:24.42Z",
+              "Title": "20250412070538_CreateEmployeeMigration.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\Migrations\\20250412070538_CreateEmployeeMigration.cs",
+              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Data\\Migrations\\20250412070538_CreateEmployeeMigration.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\Migrations\\20250412070538_CreateEmployeeMigration.cs",
+              "RelativeToolTip": "Route.Demo.DataAccess\\Data\\Migrations\\20250412070538_CreateEmployeeMigration.cs",
+              "ViewState": "AgIAAB0AAAAARTMzMzMawCAAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:05:39.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Models\\EmployeeModel\\Employee.cs",
+              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Models\\EmployeeModel\\Employee.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Models\\EmployeeModel\\Employee.cs",
+              "RelativeToolTip": "Route.Demo.DataAccess\\Models\\EmployeeModel\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:03:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Data\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Route.Demo.DataAccess\\Data\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:02:49.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "Route.Demo.DataAccess\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:48:22.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntityConfigurations.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\Configurations\\BaseEntityConfigurations.cs",
+              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Data\\Configurations\\BaseEntityConfigurations.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\Configurations\\BaseEntityConfigurations.cs",
+              "RelativeToolTip": "Route.Demo.DataAccess\\Data\\Configurations\\BaseEntityConfigurations.cs",
+              "ViewState": "AgIAAAEAAABgzczMzIwjwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:48:18.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeConfigurations.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\Back-End-ASP.NET-\\MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeToolTip": "Route.Demo.DataAccess\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "ViewState": "AgIAAAkAAABgZmZmZiYwwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:31:03.428Z",
               "EditorCaption": ""
             }
           ]

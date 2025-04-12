@@ -5,8 +5,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Route.Demo.DataAccess.Models.Shared.Classes;
 
-namespace Route.Demo.DataAccess.Models
+namespace Route.Demo.DataAccess.Models.DepartmentModel
 {
     public class Department : BaseEntity
     {
