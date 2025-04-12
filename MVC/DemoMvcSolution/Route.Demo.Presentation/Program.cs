@@ -2,7 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Route.Demo.DataAccess.Data.DbContexts;
 using Route.Demo.DataAccess.Repositories.Classess;
 using Route.Demo.DataAccess.Repositories.Interfaces;
-using RouteDemo.BusinessLogic.Services.DepartmentServices;
+using RouteDemo.BusinessLogic.Services.Classess;
+using RouteDemo.BusinessLogic.Services.Interfaces;
 
 namespace Route.Demo.Presentation
 {

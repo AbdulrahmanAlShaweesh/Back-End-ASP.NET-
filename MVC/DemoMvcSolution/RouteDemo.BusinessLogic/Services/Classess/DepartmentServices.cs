@@ -7,9 +7,10 @@ using Route.Demo.DataAccess.Models;
 using Route.Demo.DataAccess.Repositories.Interfaces;
 using RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos;
 using RouteDemo.BusinessLogic.Factories;
+using RouteDemo.BusinessLogic.Services.Interfaces;
 
 
-namespace RouteDemo.BusinessLogic.Services.DepartmentServices
+namespace RouteDemo.BusinessLogic.Services.Classess
 {
     // we inject an object from class that inherit from IDepartmentRepository
     public class DepartmentServices(IDepartmentRepository _departmentRepository) : IDepartmentServices

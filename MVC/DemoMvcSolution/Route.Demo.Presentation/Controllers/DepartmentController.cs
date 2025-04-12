@@ -2,7 +2,7 @@
 using Route.Demo.DataAccess.Models;
 using Route.Demo.Presentation.ViewModels.DepartmentViewModel;
 using RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos;
-using RouteDemo.BusinessLogic.Services.DepartmentServices;
+using RouteDemo.BusinessLogic.Services.Interfaces;
 
 namespace Route.Demo.Presentation.Controllers
 {
