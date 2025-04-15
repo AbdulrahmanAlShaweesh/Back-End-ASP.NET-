@@ -16,8 +16,6 @@ namespace Route.Demo.DataAccess.Repositories.Classess
         {
             if (WithTracking) return _dbContext.Set<TEntity>().ToList();
             else return _dbContext.Set<TEntity>().AsNoTracking();
-
-
         }
 
         public TEntity? GetById(int id)

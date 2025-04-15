@@ -14,7 +14,7 @@ namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
     {
         [Required]
         [MaxLength(50, ErrorMessage = "Max Length Should be 50 Characters")]
-        [MinLength(5, ErrorMessage = "Min Length Should be 50 Characters")]
+        [MinLength(5, ErrorMessage = "Min Length Should be 50 Characters")]            
         public string Name { get; set; } = null!;
         [Range(22, 30)]
         public int? Age { get; set; }

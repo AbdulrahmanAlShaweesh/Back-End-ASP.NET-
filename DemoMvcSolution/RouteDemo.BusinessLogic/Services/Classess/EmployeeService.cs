@@ -12,9 +12,10 @@ namespace RouteDemo.BusinessLogic.Services.Classess
     public class EmployeeService(IEmployeeRepository _employeeRepository) : IEmployeeService
     {
 
-        public IEnumerable<EmployeeDTo> GetAllEmployees(bool WithTracking)
+        public IEnumerable<EmployeeDTo> GetAllEmployees(bool WithTracking = false)
         {
             var Employees = _employeeRepository.GetAll(WithTracking);
+            
             var EmployeeDto = Employees.Select(E => new EmployeeDTo()
             {
                 Id = E.Id,
@@ -45,7 +46,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
                 Age = Employee.Age,
                 Email = Employee.Email,
                 IsActive = Employee.IsActive,
-                HiringDate = DateOnly.FromDateTime(Employee.HireDate)
+                HiringDate = DateOnly.FromDateTime(Employee.HireDate),
             };
         }
 
@@ -59,9 +60,6 @@ namespace RouteDemo.BusinessLogic.Services.Classess
             throw new NotImplementedException();
         }
 
-       
-
-        
 
         public int UpdatedEmployee(UpdatedEmployeeDto employeeDto)
         {
