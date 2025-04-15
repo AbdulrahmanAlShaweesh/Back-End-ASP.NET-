@@ -85,7 +85,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
         }
 
         // Create a new department :: will return number of rows effectated 
-        public int CreateDepartment(CreatedDepartmentDto departmentDto)
+        public int CreatedDepartment(CreatedDepartmentDto departmentDto)
         {
             var department = departmentDto.ToEntity();
 
@@ -115,7 +115,6 @@ namespace RouteDemo.BusinessLogic.Services.Classess
                 int Result = _departmentRepository.Remove(department);  // remove department and return number of row effected
 
                 return Result > 0 ? true : false;
-
             }
         }
     }

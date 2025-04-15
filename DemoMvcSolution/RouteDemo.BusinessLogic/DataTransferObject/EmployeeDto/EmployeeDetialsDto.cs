@@ -13,14 +13,18 @@ namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
     {
         public int Id { get; set; }
         public string Name { get; set; } = null!;
-        public int Age { get; set; }
+        public int? Age { get; set; }
         public string? Address { get; set; }
-        public bool IsActive { get; set; }
         public decimal Salary { get; set; }
+        public bool IsActive { get; set; }
         public string? Email { get; set; }
         public string? PhoneNumber { get; set; }
         public DateOnly HiringDate { get; set; }
-        public Gender Gender { get; set; }  /// asking khalid
-        public EmployeeType EmployeeType { get; set; }
+        public string Gender { get; set; }  /// asking khalid
+        public string EmployeeType { get; set; }
+        public int CreatedBy { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public int LastModifiedBy { get; set; }
+        public DateTime LastModifiedOn { get; set; }
     }
 }

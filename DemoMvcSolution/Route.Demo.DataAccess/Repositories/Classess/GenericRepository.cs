@@ -41,7 +41,7 @@ namespace Route.Demo.DataAccess.Repositories.Classess
 
         public int Update(TEntity entity)
         {
-            _dbContext.Set<TEntity>(); 
+            _dbContext.Set<TEntity>().Update(entity); 
             return _dbContext.SaveChanges();    
         }
     }

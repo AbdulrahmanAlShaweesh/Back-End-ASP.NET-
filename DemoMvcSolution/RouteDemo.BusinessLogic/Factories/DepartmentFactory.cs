@@ -47,7 +47,7 @@ namespace RouteDemo.BusinessLogic.Factories
                 Name = createdDepartment.Name,
                 Code = createdDepartment.Code,
                 Description = createdDepartment.Description,
-                CreatedOn = createdDepartment.DateOfCreation.ToDateTime(new TimeOnly()) // convert to Time Only
+                CreatedOn = createdDepartment.DateOfCreation.(new TimeOnly()) // convert to Time Only
             };
         }
         

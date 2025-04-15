@@ -30,6 +30,8 @@ namespace Route.Demo.Presentation
             //builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); // Tell CLR if any one need an object from IDepartmentRepository, creat an object from DepartmentRepository for Him : if we working with testing
             builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); // Tell CLR if any one need an object from IDepartmentRepository, creat an object from DepartmentRepository for Him  : if we working with dev, and this why we work asginst interface not concat class
             builder.Services.AddScoped<IDepartmentServices, DepartmentServices>();
+            builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();    
             #endregion
 
             var app = builder.Build();

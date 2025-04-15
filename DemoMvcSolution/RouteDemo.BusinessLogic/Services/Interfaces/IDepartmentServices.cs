@@ -5,12 +5,12 @@ namespace RouteDemo.BusinessLogic.Services.Interfaces
 {
     public interface IDepartmentServices
     {
-        int CreateEmployee(CreateEmployeeDto employeeDto);
+        int CreatedDepartment(CreatedDepartmentDto employeeDto);
 
-        //bool DeleteDepartment(int id);
-        //IEnumerable<DepartmentDto> GetAllDepartments();
-        EmployeeDetialsDto? GetDepartmentById(int id);
-        int UpdateDepartment(UpdatedEmployeeDto updatedDepartment);
+        bool DeleteDepartment(int id);
+        IEnumerable<DepartmentDto> GetAllDepartments();
+        DepartmentDetialsDto? GetDepartmentById(int id);
+        int UpdateDepartment(UpdatedDepartmentDto updatedDepartment);
     }
 }
 
