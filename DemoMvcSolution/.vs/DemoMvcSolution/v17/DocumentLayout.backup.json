@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42D73B3E-2F8A-4B6E-998C-375595C6E1C7}|RouteDemo.BusinessLogic\\RouteDemo.BusinessLogic.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\mvc\\demomvc\\demomvcsolution\\routedemo.businesslogic\\datatransferobject\\departmentdtos\\departmentdetialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D73B3E-2F8A-4B6E-998C-375595C6E1C7}|RouteDemo.BusinessLogic\\RouteDemo.BusinessLogic.csproj|solutionrelative:routedemo.businesslogic\\datatransferobject\\departmentdtos\\departmentdetialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|c:\\mac\\home\\documents\\fullstock\\backend\\mvc\\demomvc\\demomvcsolution\\route.demo.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|solutionrelative:route.demo.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DepartmentDetialsDto.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\RouteDemo.BusinessLogic\\DataTransferObject\\DepartmentDtos\\DepartmentDetialsDto.cs",
+              "RelativeDocumentMoniker": "RouteDemo.BusinessLogic\\DataTransferObject\\DepartmentDtos\\DepartmentDetialsDto.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\RouteDemo.BusinessLogic\\DataTransferObject\\DepartmentDtos\\DepartmentDetialsDto.cs",
+              "RelativeToolTip": "RouteDemo.BusinessLogic\\DataTransferObject\\DepartmentDtos\\DepartmentDetialsDto.cs",
+              "ViewState": "AgIAAAQAAACAZmZmZiYwwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:11:43.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Route.Demo.Presentation\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Route.Demo.Presentation\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAYAAADgMzMzM3MvwBcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAgBQAAAIARwDMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T08:09:30.18Z",
               "EditorCaption": ""
