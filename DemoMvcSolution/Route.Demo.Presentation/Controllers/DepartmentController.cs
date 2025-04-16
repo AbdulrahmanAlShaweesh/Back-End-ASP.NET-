@@ -30,7 +30,7 @@ namespace Route.Demo.Presentation.Controllers
 
                 try // happy sinario
                 {
-                   int Result = _departmentServices.CreateDepartment(createdDepartment);
+                   int Result = _departmentServices.CreatedDepartment(createdDepartment);
 
                     if(Result > 0)
                     {
