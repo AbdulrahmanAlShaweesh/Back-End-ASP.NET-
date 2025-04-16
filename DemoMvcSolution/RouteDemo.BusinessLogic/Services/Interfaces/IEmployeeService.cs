@@ -13,6 +13,6 @@ namespace RouteDemo.BusinessLogic.Services.Interfaces
         EmployeeDetialsDto? GetEmployeeById(int id);
         int CreatedEmployee(CreateEmployeeDto employeeDto);  // return number of rows affected 
         int UpdatedEmployee(UpdatedEmployeeDto employeeDto);
-        int DeleteEmployee(int id); 
+        bool DeleteEmployee(int id); 
     }
 }

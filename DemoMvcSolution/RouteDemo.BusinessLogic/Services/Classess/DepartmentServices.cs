@@ -106,15 +106,15 @@ namespace RouteDemo.BusinessLogic.Services.Classess
         public bool DeleteDepartment(int id)
         {
             var department = _departmentRepository.GetById(id); // get the department that has the id
-            if (department is null)
-            {
-                return false;
-            }
+            if (department is null) return false;
+
             else
             {
-                int Result = _departmentRepository.Remove(department);  // remove department and return number of row effected
+                department.IsDeleted = true;
+                return _departmentRepository.Update(department) > 0 ? true : false;
 
-                return Result > 0 ? true : false;
+                // hard delete
+                //int Result = _departmentRepository.Remove(department);  // remove department and return number of row effected
             }
         }
     }
