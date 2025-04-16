@@ -120,5 +120,38 @@ namespace Route.Demo.Presentation.Controllers
 
         }
         #endregion
+
+     
+        public IActionResult Delete(int id)
+        {
+            if(id == 0) return BadRequest();
+            try
+            {
+                var Deleted = _employeeServices.DeleteEmployee(id);
+                if (Deleted)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Employee Not Deleted");
+                    return RedirectToAction(nameof(Delete), new {id=id});
+                }
+            }
+            catch (Exception ex)
+            {
+                if (_environment.IsDevelopment())
+                {
+                    return RedirectToAction(nameof(Index));
+                    // WIth message that employee was delated
+
+                }
+                else
+                {
+                    _logger.LogError(ex.Message);
+                    return View("Error", ex);
+                }
+            }
+        }
     }
 }

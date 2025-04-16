@@ -14,8 +14,8 @@ namespace Route.Demo.DataAccess.Repositories.Classess
 
         public IEnumerable<TEntity> GetAll(bool WithTracking = false)
         {
-            if (WithTracking) return _dbContext.Set<TEntity>().ToList();
-            else return _dbContext.Set<TEntity>().AsNoTracking();
+            if (WithTracking) return _dbContext.Set<TEntity>().Where(E => E.IsDeleted != true).ToList();
+            else return _dbContext.Set<TEntity>().Where(E => E.IsDeleted != true).AsNoTracking();
         }
 
         public TEntity? GetById(int id)
