@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Route.Demo.DataAccess.Data.DbContexts;
 using Route.Demo.DataAccess.Repositories.Classess;
 using Route.Demo.DataAccess.Repositories.Interfaces;
+using RouteDemo.BusinessLogic;
+using RouteDemo.BusinessLogic.Profiles;
 using RouteDemo.BusinessLogic.Services.Classess;
 using RouteDemo.BusinessLogic.Services.Interfaces;
 
@@ -31,7 +33,12 @@ namespace Route.Demo.Presentation
             builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); // Tell CLR if any one need an object from IDepartmentRepository, creat an object from DepartmentRepository for Him  : if we working with dev, and this why we work asginst interface not concat class
             builder.Services.AddScoped<IDepartmentServices, DepartmentServices>();
             builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
-            builder.Services.AddScoped<IEmployeeService, EmployeeService>();    
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+            //builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly); // Create an object from mapping profile to create the map that map between employee and employee dto 
+            //                                                                 // any public class that in Business logic layer, it will get the MappingProgie and any class that inherit from it
+            builder.Services.AddAutoMapper(M => M.AddProfile(new MappingProfile())); // Configure action: AddProfile take profile or any object inhert from profile
+            // in some case, we do want the MappingpROFILE TO Public, in this case we can create a class in Business logic layer and take it as referance assembley as below
+            //builder.Services.AddAutoMapper(typeof(ProjectReferances).Assembly); // get the project assembly
             #endregion
 
             var app = builder.Build();
