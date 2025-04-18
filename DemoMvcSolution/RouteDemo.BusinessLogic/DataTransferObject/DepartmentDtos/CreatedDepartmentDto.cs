@@ -1,8 +1,4 @@
 ﻿
-
-
-
-
 namespace RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos
 {
     public class CreatedDepartmentDto

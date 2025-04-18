@@ -10,7 +10,5 @@ namespace Route.Demo.DataAccess.Repositories.Classess
 {
     public class EmployeeRepository(ApplicationDbContext _dbContext) : GenericRepository<Employee>(_dbContext), IEmployeeRepository
     {
-
-    
     }
 }

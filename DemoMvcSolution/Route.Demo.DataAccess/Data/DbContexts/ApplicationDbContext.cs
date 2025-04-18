@@ -20,7 +20,6 @@ namespace Route.Demo.DataAccess.Data.DbContexts
              // if models are in differante layer than configrations
              //modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);  // to get the configrations for current executed project (mvc) or prsentation layer
         }
-
     }
 }
 

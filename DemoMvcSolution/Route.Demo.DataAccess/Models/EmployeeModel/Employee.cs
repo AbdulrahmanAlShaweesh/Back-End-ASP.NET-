@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using Route.Demo.DataAccess.Models.Shared.Classes;
 using Route.Demo.DataAccess.Models.Shared.Enums;
 
@@ -19,6 +15,6 @@ namespace Route.Demo.DataAccess.Models.EmployeeModel
         public string? PhoneNumber { get; set; }
         public DateTime HireDate { get; set; }
         public Gender Gender { get; set; }
-        public EmployeeType EmployeeType { get; set; }
+        public EmployeeType EmployeeType { get; set; }  
     }
 }
