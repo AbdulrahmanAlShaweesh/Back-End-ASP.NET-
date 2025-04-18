@@ -21,7 +21,9 @@ namespace Route.Demo.Presentation.Controllers
         [HttpGet]
         public IActionResult Create() => View(); // this action called once the user cick on create new employee requiest
 
+
         [HttpPost]
+        [ValidateAntiForgeryToken]  // action filter : to check when the data coming from anywhere other than the application, if does not contain the token that create it when we submit the form
         public IActionResult Create(CreatedDepartmentDto createdDepartment)
         {
             // server side validation
