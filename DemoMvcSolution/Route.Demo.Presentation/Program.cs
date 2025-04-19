@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Route.Demo.DataAccess.Data.DbContexts;
 using Route.Demo.DataAccess.Repositories.Classess;
@@ -17,7 +18,10 @@ namespace Route.Demo.Presentation
 
 
             #region  Add services to the container.
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews(options =>
+            {
+                options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+            });
 
             //builder.Services.AddScoped<ApplicationDbContext>(); // Registor to Serves in DJ Container
             // using AddScoped , singleto, traintion if we are working with normal server, but with DbContext we need to work with DbContext

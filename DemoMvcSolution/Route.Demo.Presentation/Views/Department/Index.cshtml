@@ -2,8 +2,11 @@
 
 @{
     ViewData["Title"] = "Index";
+   
 }
 
+
+ 
 <h1 class="my-3">All Departments</h1>
 
 <a class="btn btn-primary my-3" asp-controller="Department" asp-action="Create">Create New Department</a>
@@ -30,16 +33,11 @@
                     <td>@Html.DisplayFor(D => department.Name)</td>
                     <td>@Html.DisplayFor(D => department.Description)</td>
                     <td>@Html.DisplayFor(D => department.DateOfCreation)</td>
-                    <td>
-                        <a class="btn btn-primary" asp-action="Details" asp-controller="Department" asp-route-id="@department.DepartmentId">
-                            <i class="fas fa-eye"></i> Details  
-                        </a>
-                    </td>
-                    <td>
-                        <a class="btn btn-success" asp-action="Edit" asp-controller="Department" asp-route-id="@department.DepartmentId">
-                            <i class="fas fa-edit"></i> Edit
-                        </a>
-                    </td>
+                    
+                    @* we call the partial view using html tag helpers *@ 
+                    @* @Html.PartialAsync("ButtomsPartialView", department.DepartmentId);  *@
+                    <partial name="_ButtomsPartialView" model="department.DepartmentId" />
+
                     <td>
                         <a class="btn btn-danger" asp-action="Delete" asp-controller="Department" asp-route-id="@department.DepartmentId">
                             <i class="fas fa-trash"></i> Delete

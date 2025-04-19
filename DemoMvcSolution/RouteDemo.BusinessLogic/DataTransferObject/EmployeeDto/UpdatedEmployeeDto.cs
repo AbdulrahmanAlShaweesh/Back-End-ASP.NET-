@@ -1,13 +1,6 @@
 ﻿using Route.Demo.DataAccess.Models.EmployeeModel;
 using Route.Demo.DataAccess.Models.Shared.Enums;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+
 namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
 {
     public class UpdatedEmployeeDto // Any Validation on Create Must be in Update

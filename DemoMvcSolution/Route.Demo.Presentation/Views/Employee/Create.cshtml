@@ -46,6 +46,8 @@
             <input asp-for="Salary" class="form-control" />
             <span asp-validation-for="Salary" class="text-danger"></span>
         </div>
+        
+        
         <div class="form-group mb-3 col-6">
             <label asp-for="EmployeeType" class="form-label"></label>
             <select class="form-control" asp-for="EmployeeType" asp-items="Html.GetEnumSelectList<EmployeeType>()">
@@ -76,7 +78,7 @@
 
         <div class="mt-4 m-auto">
             <input class="btn btn-primary" type="submit" value="Save" />
-            <a asp-controller="Employees" asp-action="Index" class="btn btn-outline-dark">Back to list</a>
+            <a asp-controller="Employee" asp-action="Index" class="btn btn-outline-dark">Back to list</a>
         </div>
     </form>
 </div>
