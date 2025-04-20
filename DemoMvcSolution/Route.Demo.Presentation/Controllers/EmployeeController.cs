@@ -48,6 +48,23 @@ namespace Route.Demo.Presentation.Controllers
         }
         #endregion
 
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         #region Employee Detials
         [HttpGet]
         public IActionResult Detials(int? id)  // take the id from the a tag
@@ -60,6 +77,15 @@ namespace Route.Demo.Presentation.Controllers
             
         }
         #endregion
+
+
+
+
+
+
+
+
+
 
         #region Edit Employee
         [HttpGet]

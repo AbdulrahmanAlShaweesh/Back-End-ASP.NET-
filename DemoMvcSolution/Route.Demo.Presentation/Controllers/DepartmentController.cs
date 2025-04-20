@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Route.Demo.Presentation.ViewModels.DepartmentViewModel;
 using RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos;
 using RouteDemo.BusinessLogic.Services.Interfaces;
@@ -42,19 +43,16 @@ namespace Route.Demo.Presentation.Controllers
 
                    int Result = _departmentServices.CreatedDepartment(createdDepartment);
 
-                    if(Result > 0)
-                    {
-                        // better way is to redirecte to the index and do what Index action does
-                        return Redirect(nameof(Index));  // if the department create, will return the index view with the data
-                        // return index view with the data
-                        //return View(nameof(Index), _departmentServices.GetAllDepartments());   // if the department create, will return the index view with the data
-                    }
+                    string Message;
+
+                    if (Result > 0)
+                        Message = $"Department {departmentViewModel.Name} is Created Successfully";
+
                     else
-                    {
-                        // if the department did not create, will return the Create view with the data
-                        ModelState.AddModelError(string.Empty, "Department Can't be created"); // if the server side validation sucess but data not create we can add more validation and we can spesify more the error
-                        //return View(createdDepartment);  // some time, we name the create and confirmcreate in this case we will use to pass view name View("Create")
-                    }
+                        Message = $"Department {departmentViewModel.Name} Did not create";
+                    TempData["Message"] = Message ; // using temp data to pass dict to the next view with diff request. 
+
+                    return RedirectToAction(nameof(Index));
                 }
                 catch (Exception ex)  // bad sinario 01
                 {
