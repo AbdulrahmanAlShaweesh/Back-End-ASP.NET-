@@ -21,6 +21,7 @@ namespace Route.Demo.Presentation
             builder.Services.AddControllersWithViews(options =>
             {
                 options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+               
             });
 
             //builder.Services.AddScoped<ApplicationDbContext>(); // Registor to Serves in DJ Container
@@ -29,6 +30,7 @@ namespace Route.Demo.Presentation
             {
                 // 3 ways to get anything or connection string from appsettings 
                 options.UseSqlServer(builder.Configuration.GetConnectionString("defualtConnection")); // allow CLR to Create object from DbContext when needed
+                options.UseLazyLoadingProxies();
             });
 
             //builder.Services.AddScoped<DepartmentRepository>();  // 2.0 CLR Will registor the service, when creating object from DepartmentRepository
@@ -77,3 +79,6 @@ namespace Route.Demo.Presentation
         }
     }
 }
+
+
+ 

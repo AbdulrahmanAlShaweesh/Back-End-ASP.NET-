@@ -62,6 +62,17 @@
           }
         }
       },
+      "Castle.Core/5.1.1": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Castle.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.1.1.0"
+          }
+        }
+      },
       "Humanizer/2.14.1": {
         "dependencies": {
           "Humanizer.Core.af": "2.14.1",
@@ -1151,29 +1162,29 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore/8.0.14": {
+      "Microsoft.EntityFrameworkCore/8.0.15": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.14",
-          "Microsoft.EntityFrameworkCore.Analyzers": "8.0.14",
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.15",
+          "Microsoft.EntityFrameworkCore.Analyzers": "8.0.15",
           "Microsoft.Extensions.Caching.Memory": "8.0.1",
           "Microsoft.Extensions.Logging": "8.0.1"
         },
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
-            "assemblyVersion": "8.0.14.0",
-            "fileVersion": "8.0.1425.11206"
+            "assemblyVersion": "8.0.15.0",
+            "fileVersion": "8.0.1525.16502"
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Abstractions/8.0.14": {
+      "Microsoft.EntityFrameworkCore.Abstractions/8.0.15": {
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
-            "assemblyVersion": "8.0.14.0",
-            "fileVersion": "8.0.1425.11206"
+            "assemblyVersion": "8.0.15.0",
+            "fileVersion": "8.0.1525.16502"
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/8.0.14": {},
+      "Microsoft.EntityFrameworkCore.Analyzers/8.0.15": {},
       "Microsoft.EntityFrameworkCore.Design/8.0.14": {
         "dependencies": {
           "Humanizer.Core": "2.14.1",
@@ -1189,9 +1200,21 @@
           }
         }
       },
+      "Microsoft.EntityFrameworkCore.Proxies/8.0.15": {
+        "dependencies": {
+          "Castle.Core": "5.1.1",
+          "Microsoft.EntityFrameworkCore": "8.0.15"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Proxies.dll": {
+            "assemblyVersion": "8.0.15.0",
+            "fileVersion": "8.0.1525.16502"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/8.0.14": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.14",
+          "Microsoft.EntityFrameworkCore": "8.0.15",
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0"
         },
         "runtime": {
@@ -1915,6 +1938,7 @@
       },
       "Route.Demo.DataAccess/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Proxies": "8.0.15",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.14"
         },
         "runtime": {
@@ -1964,6 +1988,13 @@
       "sha512": "sha512-Sf4BoE6Q3jTgFkgBkx7qztYOFELBCo+wQgpYDwal/qJ1unBH73ywPztIJKXBXORRzAeNijsuxhk94h0TIMvfYg==",
       "path": "azure.identity/1.11.4",
       "hashPath": "azure.identity.1.11.4.nupkg.sha512"
+    },
+    "Castle.Core/5.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rpYtIczkzGpf+EkZgDr9CClTdemhsrwA/W5hMoPjLkRFnXzH44zDLoovXeKtmxb1ykXK9aJVODSpiJml8CTw2g==",
+      "path": "castle.core/5.1.1",
+      "hashPath": "castle.core.5.1.1.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",
@@ -2455,26 +2486,26 @@
       "path": "microsoft.dotnet.scaffolding.shared/8.0.7",
       "hashPath": "microsoft.dotnet.scaffolding.shared.8.0.7.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore/8.0.14": {
+    "Microsoft.EntityFrameworkCore/8.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HNn+NPKCm7rR7ij7IRCCbuImaMulFJGloyIbMwi3Ews77RsthM8gxpTZciFLgRYPsBtszKpdIClEwnWmP0vjUg==",
-      "path": "microsoft.entityframeworkcore/8.0.14",
-      "hashPath": "microsoft.entityframeworkcore.8.0.14.nupkg.sha512"
+      "sha512": "sha512-v6gDYdi2j+BbUHzl5sb835mefpFlSCsQOOsn/xjky45kFA9Xrc2hjVa0yQGVLc2J7+fQDqoHWRD5c+RHU3klSQ==",
+      "path": "microsoft.entityframeworkcore/8.0.15",
+      "hashPath": "microsoft.entityframeworkcore.8.0.15.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Abstractions/8.0.14": {
+    "Microsoft.EntityFrameworkCore.Abstractions/8.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Om8/jdWyx9eKFkA1YEgxk13KjGIzA8teLgG7iNFunsI2+MT6UT54Eb4t6oe4NQlIaACj5voUe6szVAQe9GKwDA==",
-      "path": "microsoft.entityframeworkcore.abstractions/8.0.14",
-      "hashPath": "microsoft.entityframeworkcore.abstractions.8.0.14.nupkg.sha512"
+      "sha512": "sha512-wzBUYqfNTyclVaVo6we4Vo0GsfNSmHHJPn3SF4gEsR+e5QZ4r5Ck5Y9oRcEoeqxS+eFPvJzWN6xpTbwCCoWPnw==",
+      "path": "microsoft.entityframeworkcore.abstractions/8.0.15",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.8.0.15.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/8.0.14": {
+    "Microsoft.EntityFrameworkCore.Analyzers/8.0.15": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lzNb3s4t5JDMHGoUFuX/f977dFythvmzGFJxvjlhExdiATPKQfquo2NM0uX8Kelfq04jRljpdbRzcsSsK1q9Tw==",
-      "path": "microsoft.entityframeworkcore.analyzers/8.0.14",
-      "hashPath": "microsoft.entityframeworkcore.analyzers.8.0.14.nupkg.sha512"
+      "sha512": "sha512-viyTqFw09xwhynmvYggUu48R0Y6WEU2dDKBKm7WwozDH5t1K7+RS9P+iXGe5uUNJstTH/STd2AMFKpT9GaX4OQ==",
+      "path": "microsoft.entityframeworkcore.analyzers/8.0.15",
+      "hashPath": "microsoft.entityframeworkcore.analyzers.8.0.15.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Design/8.0.14": {
       "type": "package",
@@ -2482,6 +2513,13 @@
       "sha512": "sha512-ncCvbJYGXK7eSOVqfQNXLaxMWKGaKSYX1VJZjyJXg3IxxmF50B8p/isprgrVLR+SlQwTG1lmhPAPn0dOvCqlrw==",
       "path": "microsoft.entityframeworkcore.design/8.0.14",
       "hashPath": "microsoft.entityframeworkcore.design.8.0.14.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Proxies/8.0.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oyFYfmsP2ofySqGDZ3IKnphE00+FfHFDNTuBGXWFGs6ytJmg7H3gr+rG6TLDPj0QQA/hkfymLeamLSmrrlO4ZQ==",
+      "path": "microsoft.entityframeworkcore.proxies/8.0.15",
+      "hashPath": "microsoft.entityframeworkcore.proxies.8.0.15.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/8.0.14": {
       "type": "package",

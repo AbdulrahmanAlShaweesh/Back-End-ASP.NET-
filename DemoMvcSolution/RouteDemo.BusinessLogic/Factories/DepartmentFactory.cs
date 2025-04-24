@@ -48,13 +48,16 @@ namespace RouteDemo.BusinessLogic.Factories
         }
 
         // to update : using method overloading
-        public static Department ToEntity(this UpdatedDepartmentDto updatedDepartment) => new Department()
+        public static Department ToEntity(this UpdatedDepartmentDto updatedDepartment)
         {
-            Id = updatedDepartment.Id,
-            Name = updatedDepartment.Name,
-            Code = updatedDepartment.Code,
-            Description = updatedDepartment.Description,
-            CreatedOn = updatedDepartment.DateOfCreation.ToDateTime(new TimeOnly()),
-        }; 
+            return new Department()
+            {
+                Id = updatedDepartment.Id,
+                Name = updatedDepartment.Name,
+                Code = updatedDepartment.Code,
+                Description = updatedDepartment.Description,
+                CreatedOn = updatedDepartment.DateOfCreation.ToDateTime(new TimeOnly()),
+            };
+        }
     }
 }

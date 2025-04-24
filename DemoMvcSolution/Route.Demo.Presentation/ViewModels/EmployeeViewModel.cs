@@ -1,11 +1,11 @@
 ﻿using Route.Demo.DataAccess.Models.EmployeeModel;
 using Route.Demo.DataAccess.Models.Shared.Enums;
+using System.ComponentModel.DataAnnotations;
 
-namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
+namespace Route.Demo.Presentation.ViewModels
 {
-    public class UpdatedEmployeeDto // Any Validation on Create Must be in Update
+    public class EmployeeViewModel
     {
-        public int Id { get; set; }  // EF will not be able to update with out id
         [Required]
         [MaxLength(50, ErrorMessage = "Max Length Should be 50 Characters")]
         [MinLength(5, ErrorMessage = "Min Length Should be 50 Characters")]
@@ -29,6 +29,8 @@ namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
         public Gender Gender { get; set; }
         public EmployeeType EmployeeType { get; set; }  ///// ask khalid regarding to this
 
+        [Display(Name = "Department Name")]
+ 
         public int? DepartmentId { get; set; }
     }
 }

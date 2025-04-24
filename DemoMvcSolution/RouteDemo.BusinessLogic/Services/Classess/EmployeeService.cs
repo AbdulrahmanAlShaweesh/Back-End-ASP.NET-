@@ -2,7 +2,6 @@
 using AutoMapper;
 using Route.Demo.DataAccess.Models.EmployeeModel;
 using Route.Demo.DataAccess.Repositories.Interfaces;
-using RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto;
 using RouteDemo.BusinessLogic.Services.Interfaces;
 
 namespace RouteDemo.BusinessLogic.Services.Classess
@@ -11,12 +10,21 @@ namespace RouteDemo.BusinessLogic.Services.Classess
     public class EmployeeService(IEmployeeRepository _employeeRepository, IMapper _mapper) : IEmployeeService
     {
 
-        public IEnumerable<EmployeeDTo> GetAllEmployees(bool WithTracking = false)
+        public IEnumerable<EmployeeDTo> GetAllEmployees(string? EmployeeSearchName, bool WithTracking = false)
         {
-            var Employees = _employeeRepository.GetAll(WithTracking);
 
-            // auto mapping : Step 01 (Sourse, Destination)
-            var EmployeeDto = _mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeDTo>>(Employees);  // Map From IEnumerable<Employee> to IEnumerable<EmployeeDto>
+            //var Employees = _employeeRepository.GetAll(E => E.Name.ToLower().Contains(EmployeeSearchName.ToLower()));
+
+            IEnumerable<Employee> employees; 
+
+            if(string.IsNullOrWhiteSpace(EmployeeSearchName)) // if  null or white space, maen he/she needs whole employees
+            {
+                employees = _employeeRepository.GetAll(false);
+            }
+            else // seach for a spesfic employee
+            {
+                employees = _employeeRepository.GetAll(E => E.Name.ToLower().Contains(EmployeeSearchName.ToLower()));
+            }
             #region Manual Mapping
             //var EmployeeDto = Employees.Select(E => new EmployeeDTo()
             //{
@@ -32,6 +40,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
             //}); 
             #endregion
 
+            var EmployeeDto = _mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeDTo>>(employees);
             return EmployeeDto;
         }
 
@@ -78,7 +87,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
             else
             {
                employee.IsDeleted = true;
-               return _employeeRepository.Update(employee) > 0? true : false;
+               return _employeeRepository.Update(employee) > 0 ? true : false;
             }
         }
     }

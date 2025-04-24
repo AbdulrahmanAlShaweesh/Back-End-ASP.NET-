@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using Route.Demo.Presentation.ViewModels.DepartmentViewModel;
+using Route.Demo.Presentation.ViewModels;
 using RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos;
 using RouteDemo.BusinessLogic.Services.Interfaces;
 

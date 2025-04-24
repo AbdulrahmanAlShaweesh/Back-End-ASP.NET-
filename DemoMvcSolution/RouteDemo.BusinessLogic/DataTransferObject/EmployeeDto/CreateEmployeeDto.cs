@@ -29,5 +29,6 @@ namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
         public Gender Gender { get; set; }
         public EmployeeType EmployeeType { get; set; }  ///// ask khalid regarding to this
 
+        public int? DepartmentId { get; set; }
     }
 }

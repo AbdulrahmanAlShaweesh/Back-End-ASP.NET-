@@ -1,4 +1,4 @@
-﻿namespace Route.Demo.Presentation.ViewModels.DepartmentViewModel
+﻿namespace Route.Demo.Presentation.ViewModels
 {
     public class DepartmentViewModel
     {

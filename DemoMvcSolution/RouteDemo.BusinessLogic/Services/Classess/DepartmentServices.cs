@@ -7,17 +7,15 @@ using RouteDemo.BusinessLogic.Services.Interfaces;
 
 namespace RouteDemo.BusinessLogic.Services.Classess
 {
-    // we inject an object from class that inherit from IDepartmentRepository
     public class DepartmentServices(IDepartmentRepository _departmentRepository) : IDepartmentServices
     {
-        // 1.0 Injection : CLR will understand that we need in inject DepartmentRepsoitoty, but it can not do it
-        // we need to add services in services container in program.cs
+        
 
         // Get All Departments
         public IEnumerable<DepartmentDto> GetAllDepartments()
         {
-            //var Departments = departmentRepository.GetAll(true); // if we need to track
-            var Departments = _departmentRepository.GetAll();
+            
+            var Departments = _departmentRepository.GetAll(false);
 
             #region Manual Mapping
             //var departmentToReturns = Departments.Select(D => new DepartmentDto() // Mapping

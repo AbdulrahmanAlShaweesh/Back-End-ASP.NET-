@@ -8,8 +8,23 @@
 <h1>All Employees</h1>
 <br />
 <br />
-<a class="btn btn-primary" asp-controller="Employee" asp-action="Create">Create Employee</a>
+
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+
+    <!-- Create Button -->
+    <a class="btn btn-primary" asp-controller="Employee" asp-action="Create">Create Employee</a>
+
+    <!-- Search Form -->
+    <form asp-action="Index" class="d-flex ms-3" method="get" style="width: 60%;">
+        <input class="form-control flex-grow-1 me-2" type="text" name="EmployeeSearchName" placeholder="Search Employee By Name" />
+        <input type="submit" class="btn btn-outline-success" value="Search" />
+    </form>
+
+</div>
+
 <br />
+
 @if (Model.Any())
 {
     <table class="table table-striped table-hover mt-3">
@@ -19,6 +34,7 @@
                 <th>@Html.DisplayNameFor(e => e.Email)</th>
                 <th>@Html.DisplayNameFor(e => e.EmployeeType)</th>
                 <th>@Html.DisplayNameFor(e => e.Age)</th>
+                <th>@Html.DisplayNameFor(e => e.Department)</th>
                 <th>@Html.DisplayNameFor(e => e.Salary)</th>
                 <th>@Html.DisplayNameFor(e => e.IsActive)</th>
                 <th>@Html.DisplayNameFor(e => e.Gender)</th>
@@ -36,6 +52,7 @@
                     <td>@employee.Email</td>
                     <td>@employee.EmployeeType</td>
                     <td>@employee.Age</td>
+                    <td>@(string.IsNullOrEmpty(@employee.Department) ? "No Department" : @employee.Department)</td>
                     <td>@Html.DisplayFor(E => employee.Salary)</td>
                     <td>
                         <i class="fa @(employee.IsActive ? "fa-solid fa-circle-check text-success": "fa-solid fa-circle-xmark text-danger")"></i>
