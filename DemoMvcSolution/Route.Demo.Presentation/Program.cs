@@ -33,12 +33,13 @@ namespace Route.Demo.Presentation
                 options.UseLazyLoadingProxies();
             });
 
+            // after CLR Creating an object from these services, it will dispose automaticlly
             //builder.Services.AddScoped<DepartmentRepository>();  // 2.0 CLR Will registor the service, when creating object from DepartmentRepository
 
             //builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); // Tell CLR if any one need an object from IDepartmentRepository, creat an object from DepartmentRepository for Him : if we working with testing
-            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); // Tell CLR if any one need an object from IDepartmentRepository, creat an object from DepartmentRepository for Him  : if we working with dev, and this why we work asginst interface not concat class
+            //builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); // Tell CLR if any one need an object from IDepartmentRepository, creat an object from DepartmentRepository for Him  : if we working with dev, and this why we work asginst interface not concat class
             builder.Services.AddScoped<IDepartmentServices, DepartmentServices>();
-            builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            //builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
             builder.Services.AddScoped<IEmployeeService, EmployeeService>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             //builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly); // Create an object from mapping profile to create the map that map between employee and employee dto 
