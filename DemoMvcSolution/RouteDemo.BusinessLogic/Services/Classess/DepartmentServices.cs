@@ -7,7 +7,8 @@ using RouteDemo.BusinessLogic.Services.Interfaces;
 
 namespace RouteDemo.BusinessLogic.Services.Classess
 {
-    public class DepartmentServices(IDepartmentRepository _departmentRepository) : IDepartmentServices
+    // we work with IDepartmentRepository From UoW
+    public class DepartmentServices(IUnitOfWork _unitOfWork) : IDepartmentServices
     {
         
 
@@ -15,7 +16,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
         public IEnumerable<DepartmentDto> GetAllDepartments()
         {
             
-            var Departments = _departmentRepository.GetAll(false);
+            var Departments = _unitOfWork.DepartmentRepository.GetAll(false);
 
             #region Manual Mapping
             //var departmentToReturns = Departments.Select(D => new DepartmentDto() // Mapping
@@ -36,7 +37,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
 
         public DepartmentDetialsDto? GetDepartmentById(int id)
         {
-            var department = _departmentRepository.GetById(id);
+            var department = _unitOfWork.DepartmentRepository.GetById(id);
 
             #region  Mapper
             // Mapper
@@ -82,7 +83,8 @@ namespace RouteDemo.BusinessLogic.Services.Classess
         {
             var department = departmentDto.ToEntity();
 
-            return _departmentRepository.Add(department);
+            _unitOfWork.DepartmentRepository.Add(department);
+            return _unitOfWork.SaveChanges();
         }
 
         // Updated Department Services
@@ -92,19 +94,21 @@ namespace RouteDemo.BusinessLogic.Services.Classess
             // [Name, Code, Description, Date of creation]
             // EF will Update based on Department Id
 
-            return _departmentRepository.Update(updatedDepartment.ToEntity());
+            _unitOfWork.DepartmentRepository.Update(updatedDepartment.ToEntity());
+            return _unitOfWork.SaveChanges();
         }
 
         // Deleted Department Services ...
         public bool DeleteDepartment(int id)
         {
-            var department = _departmentRepository.GetById(id); // get the department that has the id
+            var department = _unitOfWork.DepartmentRepository.GetById(id); // get the department that has the id
             if (department is null) return false;
 
             else
             {
                 department.IsDeleted = true;
-                return _departmentRepository.Update(department) > 0 ? true : false;
+                _unitOfWork.DepartmentRepository.Update(department);
+                return _unitOfWork.SaveChanges() > 0 ? true : false;
 
                 // hard delete
                 //int Result = _departmentRepository.Remove(department);  // remove department and return number of row effected

@@ -1,4 +1,4 @@
-﻿ 
+﻿
 using AutoMapper;
 using Route.Demo.DataAccess.Models.EmployeeModel;
 using Route.Demo.DataAccess.Repositories.Interfaces;
@@ -7,7 +7,7 @@ using RouteDemo.BusinessLogic.Services.Interfaces;
 namespace RouteDemo.BusinessLogic.Services.Classess
 {
     // since we need to use the Automapper here, we need to ask the CLR To Inject an Object from IMapper interface
-    public class EmployeeService(IEmployeeRepository _employeeRepository, IMapper _mapper) : IEmployeeService
+    public class EmployeeService(IUnitOfWork _unitOfWork, IMapper _mapper) : IEmployeeService
     {
 
         public IEnumerable<EmployeeDTo> GetAllEmployees(string? EmployeeSearchName, bool WithTracking = false)
@@ -15,15 +15,15 @@ namespace RouteDemo.BusinessLogic.Services.Classess
 
             //var Employees = _employeeRepository.GetAll(E => E.Name.ToLower().Contains(EmployeeSearchName.ToLower()));
 
-            IEnumerable<Employee> employees; 
+            IEnumerable<Employee> employees;
 
-            if(string.IsNullOrWhiteSpace(EmployeeSearchName)) // if  null or white space, maen he/she needs whole employees
+            if (string.IsNullOrWhiteSpace(EmployeeSearchName)) // if  null or white space, maen he/she needs whole employees
             {
-                employees = _employeeRepository.GetAll(false);
+                employees = _unitOfWork.EmployeeRepository.GetAll(false);
             }
             else // seach for a spesfic employee
             {
-                employees = _employeeRepository.GetAll(E => E.Name.ToLower().Contains(EmployeeSearchName.ToLower()));
+                employees = _unitOfWork.EmployeeRepository.GetAll(E => E.Name.ToLower().Contains(EmployeeSearchName.ToLower()));
             }
             #region Manual Mapping
             //var EmployeeDto = Employees.Select(E => new EmployeeDTo()
@@ -46,7 +46,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
 
         public EmployeeDetialsDto? GetEmployeeById(int id)
         {
-            var employee = _employeeRepository.GetById(id);
+            var employee = _unitOfWork.EmployeeRepository.GetById(id);
 
             return employee is null ? null : _mapper.Map<Employee, EmployeeDetialsDto>(employee); // casting
             #region Manual Mapping
@@ -67,27 +67,33 @@ namespace RouteDemo.BusinessLogic.Services.Classess
         public int CreatedEmployee(CreateEmployeeDto employeeDto)
         {
             var createdEmployeeDto = _mapper.Map<CreateEmployeeDto, Employee>(employeeDto);
+            // Add
+            // Update
+            // Select 
+            // remove [will exute all operation before savechanges
 
-            return _employeeRepository.Add(createdEmployeeDto); // return number of rows deletated
-            
+            _unitOfWork.EmployeeRepository.Add(createdEmployeeDto); // return number of rows deletated
+            return _unitOfWork.SaveChanges(); // then save changes
         }
 
         public int UpdatedEmployee(UpdatedEmployeeDto employeeDto)
         {
             var updatedEmployeeDto = _mapper.Map<UpdatedEmployeeDto, Employee>(employeeDto);
 
-            return _employeeRepository.Update(updatedEmployeeDto);
+            _unitOfWork.EmployeeRepository.Update(updatedEmployeeDto);
+            return _unitOfWork.SaveChanges();
         }
 
         public bool DeleteEmployee(int id)
         {
             // For Soft Deleate
-            var employee = _employeeRepository.GetById(id);
+            var employee = _unitOfWork.EmployeeRepository.GetById(id);
             if (employee is null) return false;
             else
             {
-               employee.IsDeleted = true;
-               return _employeeRepository.Update(employee) > 0 ? true : false;
+                employee.IsDeleted = true;
+                _unitOfWork.EmployeeRepository.Update(employee); // save locally
+                return _unitOfWork.SaveChanges() > 0 ? true : false;
             }
         }
     }

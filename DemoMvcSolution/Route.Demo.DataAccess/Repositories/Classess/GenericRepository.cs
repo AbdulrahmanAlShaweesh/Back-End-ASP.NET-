@@ -38,25 +38,21 @@ namespace Route.Demo.DataAccess.Repositories.Classess
         }
 
 
-        public int Add(TEntity entity)
+        public void Add(TEntity entity)
         {
             dbContext.Set<TEntity>().Add(entity);
-            return dbContext.SaveChanges();
-        }
+         }
 
-        public int Remove(TEntity entity)
+        public void Remove(TEntity entity)
         {
             dbContext.Set<TEntity>().Remove(entity);
-            return dbContext.SaveChanges();
-        }
+         }
 
 
-        public int Update(TEntity entity)
+        public void Update(TEntity entity)
         {
             dbContext.Set<TEntity>().Update(entity); 
-            return dbContext.SaveChanges();    
-        }
-
+         }
         
     }
 }
