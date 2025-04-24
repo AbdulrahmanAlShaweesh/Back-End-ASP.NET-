@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿ 
 using Route.Demo.DataAccess.Models.Shared.Enums;
 
 
@@ -14,7 +10,9 @@ namespace Route.Demo.DataAccess.Data.Configurations
         {
             builder.Property(E => E.Name).HasColumnType("varchar(50)").IsRequired();
             builder.Property(E => E.Address).HasColumnType("varchar(150)");
-            builder.Property(E => E.Salary).HasColumnType("decimal(10,3)");
+            builder.Property(E => E.Salary).HasColumnType("decimal(10,3)"); 
+            
+            // EF will convert the gender from enum value into string, then read from db string-enum
             builder.Property(E => E.Gender).
                 HasConversion((EmpGender) => EmpGender.
                 ToString(), (_gender) => (Gender)Enum.Parse(typeof(Gender), _gender));
@@ -27,3 +25,6 @@ namespace Route.Demo.DataAccess.Data.Configurations
         }
     }
 }
+
+
+// 8, 3: revie 3, 04, 05:

@@ -46,9 +46,11 @@ namespace RouteDemo.BusinessLogic.Factories
                 CreatedOn = createdDepartment.DateOfCreation.ToDateTime(new TimeOnly()) // convert to Time Only
             };
         }
-        
+
         // to update : using method overloading
-        public static Department ToEntity(this UpdatedDepartmentDto updatedDepartment) =>  new Department()
+        public static Department ToEntity(this UpdatedDepartmentDto updatedDepartment)
+        {
+            return new Department()
             {
                 Id = updatedDepartment.Id,
                 Name = updatedDepartment.Name,
@@ -56,9 +58,6 @@ namespace RouteDemo.BusinessLogic.Factories
                 Description = updatedDepartment.Description,
                 CreatedOn = updatedDepartment.DateOfCreation.ToDateTime(new TimeOnly()),
             };
-
-
-       
-        
+        }
     }
 }

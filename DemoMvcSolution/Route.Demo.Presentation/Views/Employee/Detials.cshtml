@@ -1,8 +1,10 @@
 ﻿@model EmployeeDetialsDto
-
+ 
 @{
     ViewData["Title"] = "Details";
 }
+
+ 
 
 <h1 class="my-5 w-75">Employee Details</h1>
 <ul class="nav nav-tabs" id="employeeTabs" role="tablist">
@@ -38,6 +40,11 @@
             <div class="form-group mb-3 col-6">
                 <label class="form-label" asp-for="Age"></label>
                 <input asp-for="Age" class="form-control" readonly />
+            </div>
+            <div class="form-group mb-3 col-6">
+                <label class="form-label" asp-for="Department"></label>
+                <input value="@(string.IsNullOrWhiteSpace(Model.Department) ? "No Department" : Model.Department)" class="form-control" readonly />
+                @* <input asp-for="@(string.IsNullOrWhiteSpace(Model.Department) ? "No Department" : Model.Department)" class="form-control" readonly /> *@
             </div>
             <div class="form-group mb-3 col-6">
                 <label class="form-label" asp-for="HiringDate"></label>

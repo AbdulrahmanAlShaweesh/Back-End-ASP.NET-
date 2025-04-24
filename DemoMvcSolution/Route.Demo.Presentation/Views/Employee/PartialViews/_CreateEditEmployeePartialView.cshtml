@@ -1,0 +1,83 @@
+﻿@using RouteDemo.BusinessLogic.Services.Interfaces
+@model EmployeeViewModel
+@inject IDepartmentServices departmentServices
+
+
+ @* ViewData["Departments"] = _departmentService.GetAllDepartments(); // all departments *@
+
+@{ // allow use to show department and select it id
+    // var Departments = new SelectList(ViewData["Departments"] as IEnumerable<DepartmentDto>, "DepartmentId", nameof(DepartmentDto.Name)); date value field, data text field
+    var Departments = new SelectList(departmentServices.GetAllDepartments(), "DepartmentId", nameof(DepartmentDto.Name)); // it works for both edit and create views
+}
+
+
+<div class="form-group mb-3 col-6">
+    <label asp-for="DepartmentId" class="form-label"></label>
+    <select class="form-control" asp-for="DepartmentId" asp-items="Departments">
+        <!--binding the selected valud intp employee prop-->
+        <option value="@null">Choose Department</option> <!--if does not select department, it will send Null value-->
+    </select>
+    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+</div>
+
+
+<div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="Name"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+<div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="Email"></label>
+    <input asp-for="Email" class="form-control" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+</div>
+<div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="Address"></label>
+    <input asp-for="Address" class="form-control" />
+    <span asp-validation-for="Address" class="text-danger"></span>
+</div>
+<div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="PhoneNumber"></label>
+    <input asp-for="PhoneNumber" class="form-control" />
+    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+</div>
+<div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="Age"></label>
+    <input asp-for="Age" class="form-control" />
+    <span asp-validation-for="Age" class="text-danger"></span>
+</div>
+<div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="HireingDate"></label>
+    <input type="date" asp-for="HireingDate" class="form-control" />
+    <span asp-validation-for="HireingDate" class="text-danger"></span>
+</div>
+<div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="Salary"></label>
+    <input asp-for="Salary" class="form-control" />
+    <span asp-validation-for="Salary" class="text-danger"></span>
+</div>
+<div class="form-group mb-3 col-6">
+    <label asp-for="EmployeeType" class="form-label"></label>
+    <select class="form-control" asp-for="EmployeeType" asp-items="Html.GetEnumSelectList<EmployeeType>()">
+        <!--binding the selected valud intp employee prop-->
+        <option value="">Select Employee Type</option>
+    </select>
+    <span asp-validation-for="EmployeeType" class="text-danger"></span>
+</div>
+<div class="form-group mb-3 col-6">
+    <input asp-for="IsActive" class="form-check-input" />
+    <label class="col-form-label" asp-for="IsActive"></label>
+</div>
+<div class="form-group mb-3 col-6">
+    <label asp-for="Gender" class="form-label"></label>
+    <div>
+        @foreach (var gender in @Enum.GetValues<Gender>())
+        {
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" asp-for="Gender" value="@gender" />
+                <label class="form-check-label">@gender</label>
+            </div>
+        }
+    </div>
+    <span asp-validation-for="Gender" class="text-danger"></span>
+</div>

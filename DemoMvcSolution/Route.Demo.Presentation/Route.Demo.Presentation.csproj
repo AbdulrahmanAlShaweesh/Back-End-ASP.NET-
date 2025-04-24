@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\Department\PartialViews\**" />
+    <Content Remove="Views\Department\PartialViews\**" />
+    <EmbeddedResource Remove="Views\Department\PartialViews\**" />
+    <None Remove="Views\Department\PartialViews\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.14">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>

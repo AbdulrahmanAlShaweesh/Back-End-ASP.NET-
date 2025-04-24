@@ -535,3 +535,5 @@ C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.P
 C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.Presentation\obj\Debug\net8.0\Route.De.237F1788.Up2Date
 C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.Presentation\obj\Debug\net8.0\Route.Demo.Presentation.genruntimeconfig.cache
 C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.Presentation\obj\Debug\net8.0\ref\Route.Demo.Presentation.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.Presentation\bin\Debug\net8.0\Castle.Core.dll
+C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll

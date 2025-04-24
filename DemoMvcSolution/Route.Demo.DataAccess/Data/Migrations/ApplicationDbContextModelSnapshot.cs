@@ -87,6 +87,9 @@ namespace Route.Demo.DataAccess.Data.Migrations
                         .HasColumnType("datetime2")
                         .HasDefaultValueSql("GETDATE()");
 
+                    b.Property<int?>("DepartmentId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
@@ -127,7 +130,24 @@ namespace Route.Demo.DataAccess.Data.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("DepartmentId");
+
                     b.ToTable("Employees");
+                });
+
+            modelBuilder.Entity("Route.Demo.DataAccess.Models.EmployeeModel.Employee", b =>
+                {
+                    b.HasOne("Route.Demo.DataAccess.Models.DepartmentModel.Department", "Department")
+                        .WithMany("Employees")
+                        .HasForeignKey("DepartmentId")
+                        .OnDelete(DeleteBehavior.SetNull);
+
+                    b.Navigation("Department");
+                });
+
+            modelBuilder.Entity("Route.Demo.DataAccess.Models.DepartmentModel.Department", b =>
+                {
+                    b.Navigation("Employees");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,6 +1,6 @@
-﻿namespace Route.Demo.Presentation.ViewModels.DepartmentViewModel
+﻿namespace Route.Demo.Presentation.ViewModels
 {
-    public class DepartmentEditViewModel
+    public class DepartmentViewModel
     {
         public string Name { get; set; }  = string.Empty;  // since name and code does not allow null we intialze them with empty string
         public string Code { get; set; }  = string.Empty ;
