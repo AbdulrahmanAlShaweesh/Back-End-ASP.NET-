@@ -2,12 +2,13 @@
 using AutoMapper;
 using Route.Demo.DataAccess.Models.EmployeeModel;
 using Route.Demo.DataAccess.Repositories.Interfaces;
+using RouteDemo.BusinessLogic.Services.AttachmentService;
 using RouteDemo.BusinessLogic.Services.Interfaces;
 
 namespace RouteDemo.BusinessLogic.Services.Classess
 {
     // since we need to use the Automapper here, we need to ask the CLR To Inject an Object from IMapper interface
-    public class EmployeeService(IUnitOfWork _unitOfWork, IMapper _mapper) : IEmployeeService
+    public class EmployeeService(IUnitOfWork _unitOfWork, IMapper _mapper, IAttachmentService _attachmentService) : IEmployeeService
     {
 
         public IEnumerable<EmployeeDTo> GetAllEmployees(string? EmployeeSearchName, bool WithTracking = false)

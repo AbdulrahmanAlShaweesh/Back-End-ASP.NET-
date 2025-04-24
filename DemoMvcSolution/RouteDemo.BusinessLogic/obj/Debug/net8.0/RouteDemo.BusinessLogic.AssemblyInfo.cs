@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RouteDemo.BusinessLogic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc1bc08a17ecb165b7058dc9259a19fe337cd2a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a2117d7c908dd410456fb1839ca5ab7d557ebf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RouteDemo.BusinessLogic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RouteDemo.BusinessLogic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
