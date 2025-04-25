@@ -73,6 +73,11 @@ namespace RouteDemo.BusinessLogic.Services.Classess
             // Select 
             // remove [will exute all operation before savechanges
 
+            // WE need to handle if use did not upload image
+            if (employeeDto.ProfileImage is not null)
+            {
+                createdEmployeeDto.ProfileImage = _attachmentService.Upload(employeeDto.ProfileImage, "Images");
+            }
             _unitOfWork.EmployeeRepository.Add(createdEmployeeDto); // return number of rows deletated
             return _unitOfWork.SaveChanges(); // then save changes
         }

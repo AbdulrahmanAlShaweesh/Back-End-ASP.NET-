@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yWbYA+Xdnn4JdeO8HivNZJbsJbn/Xfo9wGr6RVKYhWM=",
+  "Hash": "GNpWezJpqNUNFwCNyO6lJ5FuPYr+F6e6+S7d6TM0zxE=",
   "Source": "Route.Demo.Presentation",
   "BasePath": "_content/Route.Demo.Presentation",
   "Mode": "Default",
@@ -99,6 +99,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "SourceId": "Route.Demo.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "BasePath": "_content/Route.Demo.Presentation",
+      "RelativePath": "Files/Images/26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "grphx19uvz",
+      "Integrity": "VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png"
+    },
+    {
+      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "SourceId": "Route.Demo.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "BasePath": "_content/Route.Demo.Presentation",
+      "RelativePath": "Files/Images/b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "grphx19uvz",
+      "Integrity": "VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png"
+    },
+    {
+      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
+      "SourceId": "Route.Demo.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "BasePath": "_content/Route.Demo.Presentation",
+      "RelativePath": "Files/Images/c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lforpdcara",
+      "Integrity": "j/4azKDjbM/oNjDrj2ZCHUtREOFdVX6BptSew5DOdPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png"
     },
     {
       "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\js\\site.js",
@@ -1481,6 +1544,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.grphx19uvz.png",
+      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 14:58:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "grphx19uvz"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Images/26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 14:58:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.grphx19uvz.png",
+      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 14:56:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "grphx19uvz"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Images/b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 14:56:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VO4cHcr3PiToqlnyuluaIctayNIE7XDu3wz4mVec0ro="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.lforpdcara.png",
+      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/4azKDjbM/oNjDrj2ZCHUtREOFdVX6BptSew5DOdPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 16:55:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lforpdcara"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Images/c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/4azKDjbM/oNjDrj2ZCHUtREOFdVX6BptSew5DOdPE="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Images/c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
+      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/4azKDjbM/oNjDrj2ZCHUtREOFdVX6BptSew5DOdPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 16:55:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/4azKDjbM/oNjDrj2ZCHUtREOFdVX6BptSew5DOdPE="
         }
       ]
     },

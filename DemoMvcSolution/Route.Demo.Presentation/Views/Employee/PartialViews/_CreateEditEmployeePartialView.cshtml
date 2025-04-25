@@ -12,6 +12,18 @@
 
 
 <div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="Name"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+
+<div class="form-group mb-3 col-6">
+    <label class="form-label" asp-for="ProfileImage"></label>
+    <input asp-for="ProfileImage" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+
+<div class="form-group mb-3 col-6">
     <label asp-for="DepartmentId" class="form-label"></label>
     <select class="form-control" asp-for="DepartmentId" asp-items="Departments">
         <!--binding the selected valud intp employee prop-->
@@ -21,11 +33,7 @@
 </div>
 
 
-<div class="form-group mb-3 col-6">
-    <label class="form-label" asp-for="Name"></label>
-    <input asp-for="Name" class="form-control" />
-    <span asp-validation-for="Name" class="text-danger"></span>
-</div>
+
 <div class="form-group mb-3 col-6">
     <label class="form-label" asp-for="Email"></label>
     <input asp-for="Email" class="form-control" />

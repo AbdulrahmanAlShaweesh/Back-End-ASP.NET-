@@ -14,12 +14,13 @@ namespace RouteDemo.BusinessLogic.Profiles
                  .ForMember(des => des.EmployeeType, option => option.MapFrom(src => src.EmployeeType))
                  .ForMember(des => des.Gender, options => options.MapFrom(src => src.Gender))
                  .ForMember(des => des.Department , options => options.MapFrom(src => src.Department != null ? src.Department.Name : null)); // get department name (ussing lazy loading)
-                
+
             CreateMap<Employee, EmployeeDetialsDto>()
                 .ForMember(des => des.EmployeeType, options => options.MapFrom(src => src.EmployeeType))
                 .ForMember(des => des.Gender, options => options.MapFrom(src => src.Gender))
-                .ForMember(des => des.HiringDate , options => options.MapFrom(src => DateOnly.FromDateTime(src.HireDate)))
-                .ForMember(des => des.Department, options => options.MapFrom(src => src.Department != null ? src.Department.Name : null));
+                .ForMember(des => des.HiringDate, options => options.MapFrom(src => DateOnly.FromDateTime(src.HireDate)))
+                .ForMember(des => des.Department, options => options.MapFrom(src => src.Department != null ? src.Department.Name : null))
+                .ForMember(des => des.ProfileImage, options => options.MapFrom(src => src.ProfileImage));
 
             CreateMap<CreateEmployeeDto, Employee>()   // to map CreatedEmployeeDto to Employee and from Employee To CreatedEmployeeDto
                 .ForMember(des => des.HireDate, options => options.MapFrom(src => src.HireingDate.ToDateTime(TimeOnly.MinValue))); // convert dateonly into date time

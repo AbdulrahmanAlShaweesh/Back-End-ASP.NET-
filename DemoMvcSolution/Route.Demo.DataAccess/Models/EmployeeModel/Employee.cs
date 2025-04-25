@@ -21,5 +21,6 @@ namespace Route.Demo.DataAccess.Models.EmployeeModel
         [ForeignKey("DepartmentId")]
         public int? DepartmentId { get; set; }
         public virtual Department? Department { get; set; }
+        public string? ProfileImage { get; set; }
     }
 }

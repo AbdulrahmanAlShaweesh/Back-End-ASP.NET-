@@ -1,4 +1,5 @@
-﻿ 
+﻿
+using Microsoft.AspNetCore.Http;
 using Route.Demo.DataAccess.Models.EmployeeModel;
 using Route.Demo.DataAccess.Models.Shared.Enums;
  
@@ -30,5 +31,7 @@ namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
         public EmployeeType EmployeeType { get; set; }  ///// ask khalid regarding to this
 
         public int? DepartmentId { get; set; }
+        [Display(Name = "Profile Image")]
+        public IFormFile? ProfileImage { get; set; }
     }
 }

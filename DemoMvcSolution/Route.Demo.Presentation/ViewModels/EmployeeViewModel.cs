@@ -32,5 +32,6 @@ namespace Route.Demo.Presentation.ViewModels
         [Display(Name = "Department Name")]
  
         public int? DepartmentId { get; set; }
+        public IFormFile? ProfileImage { get; set; }
     }
 }

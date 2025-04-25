@@ -1,12 +1,24 @@
 ﻿@model EmployeeDetialsDto
- 
+
 @{
     ViewData["Title"] = "Details";
 }
 
- 
+
 
 <h1 class="my-5 w-75">Employee Details</h1>
+
+@if (string.IsNullOrEmpty(Model.ProfileImage))
+{
+    <p>No Image is Availabe</p>
+}
+else
+{
+    <div >
+        <img style="width:200px; height: 200px; object-fit" src="~/Files/Images/@Model.ProfileImage" class="img-fluid rounded-circle object-fit-cover" alt="Profile Image" title="Profile Image" />
+    </div>
+}
+
 <ul class="nav nav-tabs" id="employeeTabs" role="tablist">
     <li class="nav-item" role="presentation">
         <a class="nav-link active" id="general-tab" data-bs-toggle="tab" href="#general" role="tab" aria-controls="general" aria-selected="true">General</a>

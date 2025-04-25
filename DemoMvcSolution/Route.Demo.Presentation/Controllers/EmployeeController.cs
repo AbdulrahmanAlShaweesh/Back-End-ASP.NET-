@@ -47,7 +47,8 @@ namespace Route.Demo.Presentation.Controllers
                         IsActive = employeeViewModel.IsActive,
                         PhoneNumber = employeeViewModel.PhoneNumber,
                         Salary = employeeViewModel.Salary,
-                        //DepartmentId = employeeViewModel.DepartmentId, // relation
+                        DepartmentId = employeeViewModel.DepartmentId,
+                        ProfileImage = employeeViewModel.ProfileImage,
                     };
 
                     int Resutl = _employeeServices.CreatedEmployee(employeeDto);
@@ -103,6 +104,7 @@ namespace Route.Demo.Presentation.Controllers
                 Gender = Enum.Parse<Gender>(employee.Gender),
                 EmployeeType = Enum.Parse<EmployeeType>(employee.EmployeeType), 
                 DepartmentId = employee.DepartmentId,
+            
             };
 
             return View(employeeViewModel);

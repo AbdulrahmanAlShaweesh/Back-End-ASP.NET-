@@ -1,4 +1,6 @@
-﻿ 
+﻿
+
+using Microsoft.AspNetCore.Http;
 
 namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
 {
@@ -31,7 +33,7 @@ namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
         public int? DepartmentId { get; set; }
         [Display(Name = "Department Name")]
         public string? Department { get; set; }  // lazy loading department
-
+        public string? ProfileImage { get; set; }
     }
 }
 
