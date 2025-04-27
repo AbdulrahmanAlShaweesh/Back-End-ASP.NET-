@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Route.Demo.Presentation
+build_property.RootNamespace = Route.Demo.Presentation
+build_property.ProjectDir = \\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\Demo-MVC\DemoMvcSolution\Route.Demo.Presentation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = \\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\Demo-MVC\DemoMvcSolution\Route.Demo.Presentation
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Department/PatialViews/CreateEditPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxQYXRpYWxWaWV3c1xDcmVhdGVFZGl0UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Employee/Detials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0aWFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Employee/PartialViews/_CreateEditEmployeePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdzXF9DcmVhdGVFZGl0RW1wbG95ZWVQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Shared/_ButtomsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b21zUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/FullStock/BackEnd/MVC/DemoMvc/Demo-MVC/DemoMvcSolution/Route.Demo.Presentation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7yud4ohf4u

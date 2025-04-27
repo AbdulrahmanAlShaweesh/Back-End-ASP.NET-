@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|\\\\mac\\home\\documents\\fullstock\\backend\\mvc\\demomvc\\demo-mvc\\demomvcsolution\\route.demo.presentation\\views\\employee\\detials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|\\\\mac\\home\\documents\\fullstock\\backend\\mvc\\demomvc\\demo-mvc\\demomvcsolution\\route.demo.dataaccess\\repositories\\classess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D73B3E-2F8A-4B6E-998C-375595C6E1C7}|RouteDemo.BusinessLogic\\RouteDemo.BusinessLogic.csproj|\\\\mac\\home\\documents\\fullstock\\backend\\mvc\\demomvc\\demo-mvc\\demomvcsolution\\routedemo.businesslogic\\services\\classess\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D73B3E-2F8A-4B6E-998C-375595C6E1C7}|RouteDemo.BusinessLogic\\RouteDemo.BusinessLogic.csproj|\\\\mac\\home\\documents\\fullstock\\backend\\mvc\\demomvc\\demo-mvc\\demomvcsolution\\routedemo.businesslogic\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AF683A-A8B8-4F9C-990A-1A3B6A17A3BD}|Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj|\\\\mac\\home\\documents\\fullstock\\backend\\mvc\\demomvc\\demo-mvc\\demomvcsolution\\route.demo.dataaccess\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76880AB6-7E51-49D0-9423-8857C96E47C2}|Route.Demo.Presentation\\Route.Demo.Presentation.csproj|\\\\mac\\home\\documents\\fullstock\\backend\\mvc\\demomvc\\demo-mvc\\demomvcsolution\\route.demo.presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detials.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Views\\Employee\\Detials.cshtml",
+              "RelativeDocumentMoniker": "Route.Demo.Presentation\\Views\\Employee\\Detials.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Views\\Employee\\Detials.cshtml",
+              "RelativeToolTip": "Route.Demo.Presentation\\Views\\Employee\\Detials.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T12:28:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Repositories\\Classess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Repositories\\Classess\\UnitOfWork.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Repositories\\Classess\\UnitOfWork.cs",
+              "RelativeToolTip": "Route.Demo.DataAccess\\Repositories\\Classess\\UnitOfWork.cs",
+              "ViewState": "AgIAAAQAAAAAaGZmZmYUwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:49:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\RouteDemo.BusinessLogic\\Services\\Classess\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "RouteDemo.BusinessLogic\\Services\\Classess\\EmployeeService.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\RouteDemo.BusinessLogic\\Services\\Classess\\EmployeeService.cs",
+              "RelativeToolTip": "RouteDemo.BusinessLogic\\Services\\Classess\\EmployeeService.cs",
+              "ViewState": "AgIAAEcAAADAz8zMzAwrwFgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:39:47.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\RouteDemo.BusinessLogic\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "RouteDemo.BusinessLogic\\Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\RouteDemo.BusinessLogic\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "RouteDemo.BusinessLogic\\Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:39:34.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Route.Demo.DataAccess\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Route.Demo.DataAccess\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:38:45.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Route.Demo.Presentation\\Controllers\\DepartmentController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Route.Demo.Presentation\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:27:02.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
