@@ -2850,11 +2850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj",
       "projectName": "Route.Demo.DataAccess",
-      "projectPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\Route.Demo.DataAccess.csproj",
       "packagesPath": "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\",
-      "outputPath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.DataAccess\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

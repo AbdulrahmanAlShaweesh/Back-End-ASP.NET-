@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "589jSTaMfeg=",
+  "dgSpecHash": "cJ7zdqtvFA4=",
   "success": true,
-  "projectFilePath": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\Route.Demo.Presentation.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\Demo-MVC\\DemoMvcSolution\\Route.Demo.Presentation\\Route.Demo.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\alshwishabdulrahman\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
