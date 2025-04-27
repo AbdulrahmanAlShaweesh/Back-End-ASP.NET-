@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Route.Demo.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eafaa28cfff753348749a44663a8a1976f85869")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b440780499907d3873af85511d450886b6b193a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Route.Demo.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Route.Demo.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
