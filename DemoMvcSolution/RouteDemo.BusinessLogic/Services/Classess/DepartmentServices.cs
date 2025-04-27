@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Route.Demo.DataAccess.Models;
+﻿ 
 using Route.Demo.DataAccess.Repositories.Interfaces;
 using RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos;
 using RouteDemo.BusinessLogic.Factories;
@@ -12,17 +7,16 @@ using RouteDemo.BusinessLogic.Services.Interfaces;
 
 namespace RouteDemo.BusinessLogic.Services.Classess
 {
-    // we inject an object from class that inherit from IDepartmentRepository
-    public class DepartmentServices(IDepartmentRepository _departmentRepository) : IDepartmentServices
+    // we work with IDepartmentRepository From UoW
+    public class DepartmentServices(IUnitOfWork _unitOfWork) : IDepartmentServices
     {
-        // 1.0 Injection : CLR will understand that we need in inject DepartmentRepsoitoty, but it can not do it
-        // we need to add services in services container in program.cs
+        
 
         // Get All Departments
         public IEnumerable<DepartmentDto> GetAllDepartments()
         {
-            //var Departments = departmentRepository.GetAll(true); // if we need to track
-            var Departments = _departmentRepository.GetAll();
+            
+            var Departments = _unitOfWork.DepartmentRepository.GetAll(false);
 
             #region Manual Mapping
             //var departmentToReturns = Departments.Select(D => new DepartmentDto() // Mapping
@@ -43,7 +37,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
 
         public DepartmentDetialsDto? GetDepartmentById(int id)
         {
-            var department = _departmentRepository.GetById(id);
+            var department = _unitOfWork.DepartmentRepository.GetById(id);
 
             #region  Mapper
             // Mapper
@@ -89,7 +83,8 @@ namespace RouteDemo.BusinessLogic.Services.Classess
         {
             var department = departmentDto.ToEntity();
 
-            return _departmentRepository.Add(department);
+            _unitOfWork.DepartmentRepository.Add(department);
+            return _unitOfWork.SaveChanges();
         }
 
         // Updated Department Services
@@ -99,22 +94,24 @@ namespace RouteDemo.BusinessLogic.Services.Classess
             // [Name, Code, Description, Date of creation]
             // EF will Update based on Department Id
 
-            return _departmentRepository.Update(updatedDepartment.ToEntity());
+            _unitOfWork.DepartmentRepository.Update(updatedDepartment.ToEntity());
+            return _unitOfWork.SaveChanges();
         }
 
         // Deleted Department Services ...
         public bool DeleteDepartment(int id)
         {
-            var department = _departmentRepository.GetById(id); // get the department that has the id
-            if (department is null)
-            {
-                return false;
-            }
+            var department = _unitOfWork.DepartmentRepository.GetById(id); // get the department that has the id
+            if (department is null) return false;
+
             else
             {
-                int Result = _departmentRepository.Remove(department);  // remove department and return number of row effected
+                department.IsDeleted = true;
+                _unitOfWork.DepartmentRepository.Update(department);
+                return _unitOfWork.SaveChanges() > 0 ? true : false;
 
-                return Result > 0 ? true : false;
+                // hard delete
+                //int Result = _departmentRepository.Remove(department);  // remove department and return number of row effected
             }
         }
     }

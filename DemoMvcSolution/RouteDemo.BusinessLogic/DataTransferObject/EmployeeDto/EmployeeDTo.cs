@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿ 
 namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
 {
     public class EmployeeDTo
@@ -17,8 +12,9 @@ namespace RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto
         public bool IsActive { get; set; }
         [EmailAddress]
         public string? Email { get; set; }
-        public string Gender { get; set; }
+        public string Gender { get; set; } = null!;
         [Display(Name = "Employee Type")]
-        public string EmployeeType { get; set; }
+        public string EmployeeType { get; set; } = null!;
+        public string? Department { get; set; }  // we need department name only : related data
     }
 }

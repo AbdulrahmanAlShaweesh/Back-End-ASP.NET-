@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using System.ComponentModel.DataAnnotations.Schema;
+using Route.Demo.DataAccess.Models.DepartmentModel;
 using Route.Demo.DataAccess.Models.Shared.Classes;
 using Route.Demo.DataAccess.Models.Shared.Enums;
 
@@ -20,5 +18,9 @@ namespace Route.Demo.DataAccess.Models.EmployeeModel
         public DateTime HireDate { get; set; }
         public Gender Gender { get; set; }
         public EmployeeType EmployeeType { get; set; }
+        [ForeignKey("DepartmentId")]
+        public int? DepartmentId { get; set; }
+        public virtual Department? Department { get; set; }
+        public string? ProfileImage { get; set; }
     }
 }

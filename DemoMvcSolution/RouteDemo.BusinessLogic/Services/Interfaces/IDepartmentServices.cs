@@ -1,6 +1,5 @@
 ﻿using RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos;
-using RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto;
-
+ 
 namespace RouteDemo.BusinessLogic.Services.Interfaces
 {
     public interface IDepartmentServices
@@ -13,6 +12,9 @@ namespace RouteDemo.BusinessLogic.Services.Interfaces
         int UpdateDepartment(UpdatedDepartmentDto updatedDepartment);
     }
 }
+
+
+
 
 
 

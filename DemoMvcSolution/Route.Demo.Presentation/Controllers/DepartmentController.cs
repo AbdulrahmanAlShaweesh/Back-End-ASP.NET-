@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Route.Demo.DataAccess.Models;
-using Route.Demo.Presentation.ViewModels.DepartmentViewModel;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Route.Demo.Presentation.ViewModels;
 using RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos;
 using RouteDemo.BusinessLogic.Services.Interfaces;
 
@@ -13,6 +13,7 @@ namespace Route.Demo.Presentation.Controllers
         [HttpGet]  // BaseUrl/department/Index
         public IActionResult Index()
         {
+            
             var Departments = _departmentServices.GetAllDepartments(); // DTO : return view for MVC, AND Json for WebAPIs
             return View(Departments);
         }
@@ -21,30 +22,37 @@ namespace Route.Demo.Presentation.Controllers
         [HttpGet]
         public IActionResult Create() => View(); // this action called once the user cick on create new employee requiest
 
+
         [HttpPost]
-        public IActionResult Create(CreatedDepartmentDto createdDepartment)
+        [ValidateAntiForgeryToken]  // action filter : to check when the data coming from anywhere other than the application, if does not contain the token that create it when we submit the form
+        public IActionResult Create(DepartmentViewModel departmentViewModel)
         {
+           
             // server side validation
             if (ModelState.IsValid)
             {  // check if the CreateDepartmentDto is valid, the validation in data annodation will display if the modelstate is not valid
 
                 try // happy sinario
                 {
-                   int Result = _departmentServices.CreateDepartment(createdDepartment);
+                    var createdDepartment = new CreatedDepartmentDto() { 
+                        Name = departmentViewModel.Name,
+                        Code = departmentViewModel.Code,
+                        DateOfCreation = departmentViewModel.DateOfCreation,
+                        Description = departmentViewModel.Description,
+                    };
 
-                    if(Result > 0)
-                    {
-                        // better way is to redirecte to the index and do what Index action does
-                        return Redirect(nameof(Index));  // if the department create, will return the index view with the data
-                        // return index view with the data
-                        //return View(nameof(Index), _departmentServices.GetAllDepartments());   // if the department create, will return the index view with the data
-                    }
+                   int Result = _departmentServices.CreatedDepartment(createdDepartment);
+
+                    string Message;
+
+                    if (Result > 0)
+                        Message = $"Department {departmentViewModel.Name} is Created Successfully";
+
                     else
-                    {
-                        // if the department did not create, will return the Create view with the data
-                        ModelState.AddModelError(string.Empty, "Department Can't be created"); // if the server side validation sucess but data not create we can add more validation and we can spesify more the error
-                        //return View(createdDepartment);  // some time, we name the create and confirmcreate in this case we will use to pass view name View("Create")
-                    }
+                        Message = $"Department {departmentViewModel.Name} Did not create";
+                    TempData["Message"] = Message ; // using temp data to pass dict to the next view with diff request. 
+
+                    return RedirectToAction(nameof(Index));
                 }
                 catch (Exception ex)  // bad sinario 01
                 {
@@ -69,7 +77,7 @@ namespace Route.Demo.Presentation.Controllers
                // bad sinario 02
             
                 // if model state is not valid | defualt return
-                return View(createdDepartment); // will return the error message in each span in the view
+                return View(departmentViewModel); // will return the error message in each span in the view
        
         }
 
@@ -103,7 +111,7 @@ namespace Route.Demo.Presentation.Controllers
             if (department is null) return NotFound();
 
             // manual mapping
-            var DepartmentViewModel = new DepartmentEditViewModel()    
+            var DepartmentViewModel = new DepartmentViewModel()    
             {
                 Name = department.Name,
                 Code = department.Code,
@@ -116,7 +124,7 @@ namespace Route.Demo.Presentation.Controllers
         }
 
         [HttpPost] // THIS ACTION EDIT THE VIEW
-        public IActionResult Edit([FromRoute]int id, DepartmentEditViewModel viewModel) { // will take the id of the binding model form the route
+        public IActionResult Edit([FromRoute]int id, DepartmentViewModel viewModel) { // will take the id of the binding model form the route
 
             if (ModelState.IsValid)
             {

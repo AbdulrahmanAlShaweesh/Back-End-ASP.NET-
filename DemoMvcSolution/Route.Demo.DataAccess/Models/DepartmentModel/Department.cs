@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿ 
 using Route.Demo.DataAccess.Models.Shared.Classes;
 
 namespace Route.Demo.DataAccess.Models.DepartmentModel
@@ -14,5 +8,6 @@ namespace Route.Demo.DataAccess.Models.DepartmentModel
         public string Name { get; set; } = null!;
         public string Code { get; set; } = null!;
         public string? Description { get; set; }
+        public virtual ICollection<Employee> Employees { get; set; } = new HashSet<Employee>();
     }
 }

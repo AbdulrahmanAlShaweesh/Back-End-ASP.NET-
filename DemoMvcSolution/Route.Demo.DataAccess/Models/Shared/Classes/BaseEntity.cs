@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿ 
 
 namespace Route.Demo.DataAccess.Models.Shared.Classes
 {
@@ -14,6 +10,5 @@ namespace Route.Demo.DataAccess.Models.Shared.Classes
         public int LastModifedBy { get; set; }      // User Id who modify the record
         public DateTime LastModifedOn { get;set; } // [Automatically Calculated ] 
         public bool IsDeleted { get; set; }        // soft deleted
-
     }
 }

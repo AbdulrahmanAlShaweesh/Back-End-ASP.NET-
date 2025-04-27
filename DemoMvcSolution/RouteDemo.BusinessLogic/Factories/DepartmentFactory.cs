@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿ 
 using Route.Demo.DataAccess.Models.DepartmentModel;
 using RouteDemo.BusinessLogic.DataTransferObject.DepartmentDtos;
 
@@ -47,12 +43,14 @@ namespace RouteDemo.BusinessLogic.Factories
                 Name = createdDepartment.Name,
                 Code = createdDepartment.Code,
                 Description = createdDepartment.Description,
-                CreatedOn = createdDepartment.DateOfCreation.(new TimeOnly()) // convert to Time Only
+                CreatedOn = createdDepartment.DateOfCreation.ToDateTime(new TimeOnly()) // convert to Time Only
             };
         }
-        
+
         // to update : using method overloading
-        public static Department ToEntity(this UpdatedDepartmentDto updatedDepartment) =>  new Department()
+        public static Department ToEntity(this UpdatedDepartmentDto updatedDepartment)
+        {
+            return new Department()
             {
                 Id = updatedDepartment.Id,
                 Name = updatedDepartment.Name,
@@ -60,9 +58,6 @@ namespace RouteDemo.BusinessLogic.Factories
                 Description = updatedDepartment.Description,
                 CreatedOn = updatedDepartment.DateOfCreation.ToDateTime(new TimeOnly()),
             };
-
-
-       
-        
+        }
     }
 }

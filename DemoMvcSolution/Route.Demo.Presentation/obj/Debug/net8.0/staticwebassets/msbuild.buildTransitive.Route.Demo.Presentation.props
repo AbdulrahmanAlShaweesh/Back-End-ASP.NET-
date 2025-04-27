@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Route.Demo.Presentation.props" />
-</Project>
