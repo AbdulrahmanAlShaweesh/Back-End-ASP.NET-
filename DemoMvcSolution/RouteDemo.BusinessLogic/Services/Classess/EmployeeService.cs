@@ -22,6 +22,7 @@ namespace RouteDemo.BusinessLogic.Services.Classess
             {
                 employees = _unitOfWork.EmployeeRepository.GetAll(false);
             }
+
             else // seach for a spesfic employee
             {
                 employees = _unitOfWork.EmployeeRepository.GetAll(E => E.Name.ToLower().Contains(EmployeeSearchName.ToLower()));

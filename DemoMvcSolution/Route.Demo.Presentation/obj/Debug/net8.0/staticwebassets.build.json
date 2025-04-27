@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GNpWezJpqNUNFwCNyO6lJ5FuPYr+F6e6+S7d6TM0zxE=",
+  "Hash": "oTWNs3o7HaFL/Srdf0hlcU8z1Qp8dSfHgEmWECxXuSY=",
   "Source": "Route.Demo.Presentation",
   "BasePath": "_content/Route.Demo.Presentation",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Route.Demo.Presentation\\wwwroot",
       "Source": "Route.Demo.Presentation",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Route.Demo.Presentation.styles.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Route.Demo.Presentation.styles.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "Route.Demo.Presentation#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "YX99UZtPv09keMk5Zoy6wzkq5frW+lyhi6SHKHLFMMA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Route.Demo.Presentation.styles.css"
+      "OriginalItemSpec": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Route.Demo.Presentation.styles.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Route.Demo.Presentation.bundle.scp.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Route.Demo.Presentation.bundle.scp.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "Route.Demo.Presentation#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "YX99UZtPv09keMk5Zoy6wzkq5frW+lyhi6SHKHLFMMA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Route.Demo.Presentation.bundle.scp.css"
+      "OriginalItemSpec": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Route.Demo.Presentation.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\css\\site.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\css\\site.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\favicon.ico",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\favicon.ico",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "Files/Images/26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "Files/Images/b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "Files/Images/c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\js\\site.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\js\\site.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Route.Demo.Presentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
+      "ContentRoot": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\",
       "BasePath": "_content/Route.Demo.Presentation",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1385,7 +1385,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\css\\site.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1430,7 +1430,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\css\\site.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1467,7 +1467,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\favicon.ico",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1512,7 +1512,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\favicon.ico",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1549,7 +1549,7 @@
     },
     {
       "Route": "Files/Images/26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.grphx19uvz.png",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1570,7 +1570,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 14:58:50 GMT"
+          "Value": "Sun, 27 Apr 2025 12:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1594,7 +1594,7 @@
     },
     {
       "Route": "Files/Images/26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\26a05cad-8f55-451d-a19b-284b5e8f00fd_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1615,7 +1615,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 14:58:50 GMT"
+          "Value": "Sun, 27 Apr 2025 12:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1631,7 +1631,7 @@
     },
     {
       "Route": "Files/Images/b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.grphx19uvz.png",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1652,7 +1652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 14:56:41 GMT"
+          "Value": "Sun, 27 Apr 2025 12:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1676,7 +1676,7 @@
     },
     {
       "Route": "Files/Images/b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\b4fee359-02ad-42c3-9a6b-a770f8578b18_Screenshot 2025-04-10 at 8.50.36\u202FAM.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1697,7 +1697,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 14:56:41 GMT"
+          "Value": "Sun, 27 Apr 2025 12:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1713,7 +1713,7 @@
     },
     {
       "Route": "Files/Images/c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.lforpdcara.png",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1734,7 +1734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 16:55:33 GMT"
+          "Value": "Sun, 27 Apr 2025 12:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1758,7 +1758,7 @@
     },
     {
       "Route": "Files/Images/c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\Files\\Images\\c4e86966-47f5-4fc0-a6e1-7955d27c9b75_image01.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1779,7 +1779,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 16:55:33 GMT"
+          "Value": "Sun, 27 Apr 2025 12:21:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1795,7 +1795,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\js\\site.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1832,7 +1832,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\js\\site.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1877,7 +1877,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1914,7 +1914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1959,7 +1959,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1996,7 +1996,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2041,7 +2041,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2078,7 +2078,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2123,7 +2123,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2160,7 +2160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2205,7 +2205,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2242,7 +2242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2287,7 +2287,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2324,7 +2324,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2369,7 +2369,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2406,7 +2406,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2451,7 +2451,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2488,7 +2488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2533,7 +2533,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2578,7 +2578,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2615,7 +2615,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2652,7 +2652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2697,7 +2697,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2734,7 +2734,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2779,7 +2779,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2816,7 +2816,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2861,7 +2861,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2898,7 +2898,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2943,7 +2943,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2980,7 +2980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3017,7 +3017,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3054,7 +3054,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3099,7 +3099,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3144,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3189,7 +3189,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3234,7 +3234,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3271,7 +3271,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3316,7 +3316,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3353,7 +3353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3390,7 +3390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3427,7 +3427,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3472,7 +3472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3517,7 +3517,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3562,7 +3562,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3599,7 +3599,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3644,7 +3644,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3681,7 +3681,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3718,7 +3718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3755,7 +3755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3800,7 +3800,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3845,7 +3845,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3882,7 +3882,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3927,7 +3927,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3964,7 +3964,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4009,7 +4009,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4046,7 +4046,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4083,7 +4083,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4128,7 +4128,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4173,7 +4173,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4210,7 +4210,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4255,7 +4255,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4292,7 +4292,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4329,7 +4329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4374,7 +4374,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4411,7 +4411,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4456,7 +4456,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4501,7 +4501,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4538,7 +4538,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4583,7 +4583,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4620,7 +4620,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4665,7 +4665,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4710,7 +4710,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4747,7 +4747,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4792,7 +4792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4829,7 +4829,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4866,7 +4866,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4911,7 +4911,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4948,7 +4948,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4993,7 +4993,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5030,7 +5030,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5067,7 +5067,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5112,7 +5112,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5157,7 +5157,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5194,7 +5194,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5239,7 +5239,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5276,7 +5276,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5313,7 +5313,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5350,7 +5350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5395,7 +5395,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5440,7 +5440,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5485,7 +5485,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5522,7 +5522,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5567,7 +5567,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5612,7 +5612,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5649,7 +5649,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5694,7 +5694,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5739,7 +5739,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5776,7 +5776,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5813,7 +5813,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5858,7 +5858,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5895,7 +5895,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5940,7 +5940,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5977,7 +5977,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6022,7 +6022,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6059,7 +6059,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6096,7 +6096,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6141,7 +6141,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6178,7 +6178,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6223,7 +6223,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6260,7 +6260,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6305,7 +6305,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6350,7 +6350,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6387,7 +6387,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6432,7 +6432,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6469,7 +6469,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6514,7 +6514,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6551,7 +6551,7 @@
     },
     {
       "Route": "Route.Demo.Presentation.bundle.scp.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Route.Demo.Presentation.bundle.scp.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Route.Demo.Presentation.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6588,7 +6588,7 @@
     },
     {
       "Route": "Route.Demo.Presentation.hg18ar3g7o.bundle.scp.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Route.Demo.Presentation.bundle.scp.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Route.Demo.Presentation.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6633,7 +6633,7 @@
     },
     {
       "Route": "Route.Demo.Presentation.hg18ar3g7o.styles.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Route.Demo.Presentation.styles.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Route.Demo.Presentation.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6678,7 +6678,7 @@
     },
     {
       "Route": "Route.Demo.Presentation.styles.css",
-      "AssetFile": "C:\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Route.Demo.Presentation.styles.css",
+      "AssetFile": "\\\\Mac\\Home\\Documents\\FullStock\\BackEnd\\MVC\\DemoMvc\\DemoMvcSolution\\Route.Demo.Presentation\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Route.Demo.Presentation.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

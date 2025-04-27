@@ -1,7 +1,5 @@
 ﻿ 
-using AutoMapper;
-using Route.Demo.DataAccess.Models.EmployeeModel;
-using RouteDemo.BusinessLogic.DataTransferObject.EmployeeDto;
+
 
 namespace RouteDemo.BusinessLogic.Profiles
 {

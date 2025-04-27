@@ -24,3 +24,16 @@ C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.D
 C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\refint\Route.Demo.DataAccess.dll
 C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.pdb
 C:\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\ref\Route.Demo.DataAccess.dll
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\bin\Debug\net8.0\Route.Demo.DataAccess.deps.json
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\bin\Debug\net8.0\Route.Demo.DataAccess.dll
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\bin\Debug\net8.0\Route.Demo.DataAccess.pdb
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.AssemblyInfo.cs
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.sourcelink.json
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.dll
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\refint\Route.Demo.DataAccess.dll
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\Route.Demo.DataAccess.pdb
+\\Mac\Home\Documents\FullStock\BackEnd\MVC\DemoMvc\DemoMvcSolution\Route.Demo.DataAccess\obj\Debug\net8.0\ref\Route.Demo.DataAccess.dll
