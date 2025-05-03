@@ -1,6 +1,8 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Route.Demo.DataAccess.Data.DbContexts;
+using Route.Demo.DataAccess.Models.IdentityModel;
 using Route.Demo.DataAccess.Repositories.Classess;
 using Route.Demo.DataAccess.Repositories.Interfaces;
 using RouteDemo.BusinessLogic;
@@ -49,6 +51,17 @@ namespace Route.Demo.Presentation
             builder.Services.AddAutoMapper(M => M.AddProfile(new MappingProfile())); // Configure action: AddProfile take profile or any object inhert from profile
             // in some case, we do want the MappingpROFILE TO Public, in this case we can create a class in Business logic layer and take it as referance assembley as below
             //builder.Services.AddAutoMapper(typeof(ProjectReferances).Assembly); // get the project assembly
+            
+            
+
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+            {
+                // to add custom validation
+                //options.User.AllowedUserNameCharacters this to allow only name in the username
+                //options.User.RequireUniqueEmail = true; 
+                options.Password.RequireLowercase = true;
+            }) // allow DI
+                .AddEntityFrameworkStores<ApplicationDbContext>();
             #endregion
 
             var app = builder.Build();
@@ -76,7 +89,7 @@ namespace Route.Demo.Presentation
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id:int?}"); 
+                pattern: "{controller=Account}/{action=Register}/{id:int?}"); 
             #endregion
 
             app.Run();
