@@ -8,7 +8,7 @@ using Route.Demo.Presentation.ViewModels;
 namespace Route.Demo.Presentation.Controllers
 {
     // CLR Will inject object from UserNamager of ApplicationUser
-    public class AccountController(UserManager<ApplicationUser> userManager) : Controller
+    public class AccountController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager) : Controller
     {
         #region Register
         // Register 
@@ -17,7 +17,7 @@ namespace Route.Demo.Presentation.Controllers
         [HttpPost]
         public IActionResult Register(RegisterViewModel viewModel)
         {
-            if(!ModelState.IsValid) return View(viewModel);
+            if (!ModelState.IsValid) return View(viewModel);
 
             var User = new ApplicationUser()
             {
@@ -36,7 +36,7 @@ namespace Route.Demo.Presentation.Controllers
             else
             {
                 // here we need to handle if there is an errir, we should check if we are in production or devlopment model as we did in employee and department controllers
-                foreach(var error in Result.Errors)
+                foreach (var error in Result.Errors)
                 {
                     ModelState.AddModelError(string.Empty, error.Description); // adding error
                 }
@@ -45,8 +45,49 @@ namespace Route.Demo.Presentation.Controllers
             }
         }
         #endregion
-        // Login
 
+        // Login
+        [HttpGet]
+        public IActionResult Login() => View();
+
+        [HttpPost]
+        public IActionResult Login(LoginViewModel loginViewModel)
+        {
+            if (!ModelState.IsValid) return View(loginViewModel);
+
+            var User = userManager.FindByEmailAsync(loginViewModel.Email).Result;
+
+            if (User is not null)
+            {
+                bool Flag = userManager.CheckPasswordAsync(User, loginViewModel.Password).Result;
+
+                if (Flag)
+                {
+
+                    var Result = signInManager.PasswordSignInAsync(User, loginViewModel.Password, loginViewModel.RememberMe, false).Result;
+
+                    if (Result.IsNotAllowed)
+                    {
+                        ModelState.AddModelError(string.Empty, "Your account is Not allowed");
+                    }
+                    if (Result.IsLockedOut)
+                    {
+                        ModelState.AddModelError(string.Empty, "Your account is Locked Out");
+                    }
+                    if (Result.Succeeded)
+                    {
+                        return RedirectToAction(nameof(HomeController.Index), "Home");
+                    }
+                }
+
+            }
+            else
+            {
+                ModelState.AddModelError(string.Empty, "Invalid Login");
+
+            }
+            return View(loginViewModel);
+        }
         // Signout
     }
 }
